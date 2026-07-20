@@ -9,6 +9,10 @@ from langchain_core.output_parsers import JsonOutputParser
 import os
 from dotenv import load_dotenv
 import re
+from typing import List
+import pandas as pd
+pd.set_option('display.max_columns', None)   #no ocultar columnas con "..."
+pd.set_option('display.width', None)          #no cortar el ancho, usar el ancho real del contenido
 
 load_dotenv()
 
@@ -47,13 +51,12 @@ NOMBRES_LOCALIDADES = {
 #se define la "forma" que debe tener el filtro que regrese la IA
 class FiltroConsulta(BaseModel):
     parametro: str = Field(default="", description="Nombre EXACTO de la columna de parametro consultado, tomado de esta lista: " + ", ".join(columnas_parametros) + ". Vacio si la pregunta no menciona ningun parametro.")
-    sitio: str = Field(default="", description=(
-        "Codigo EXACTO de localidad (nunca el nombre completo), tomado de esta lista: "
-        + ", ".join(NOMBRES_LOCALIDADES.keys())
-        + ". Si el usuario menciona el nombre completo del lugar en vez del codigo, tradúcelo "
-        "al codigo correspondiente usando esta relacion: "
+    sitios: List[str] = Field(default_factory=list, description=(
+        "Lista de codigos EXACTOS de localidad mencionados (puede ser uno, varios o ninguno). "
+        "Codigos validos: " + ", ".join(NOMBRES_LOCALIDADES.keys())
+        + ". Si el usuario menciona nombres completos en vez de codigos, tradúcelos usando esta relacion: "
         + "; ".join(f"{codigo} = {nombre}" for codigo, nombre in NOMBRES_LOCALIDADES.items())
-        + ". Vacio si no se menciona ningun sitio."
+        + ". Lista vacia si no se menciona ningun sitio."
     ))
     fecha_inicio: str = Field(default="", description="Fecha inicial del rango preguntado, formato YYYY-MM-DD. Vacio si no aplica.")
     fecha_fin: str = Field(default="", description="Fecha final del rango preguntado, formato YYYY-MM-DD. Vacio si no aplica.")
@@ -84,7 +87,8 @@ PREGUNTA: {pregunta}
 cadena_filtro = template_filtro | modelo | parser_filtro
 
 #primera prueba con una de tus preguntas de ejemplo
-pregunta_prueba = "Cual fue la fecha de valor mas alto de DQO en Juanacatlán"
+pregunta_prueba = "listame los resultados mas altos de DQO para juanacatlan, las pintas y el salto"
+
 filtro = cadena_filtro.invoke({"pregunta": pregunta_prueba})
 print(filtro)
 
@@ -103,8 +107,8 @@ df_contaminantes["Fecha de Muestreo"] = pd.to_datetime(df_contaminantes["Fecha d
 #se parte de una copia completa de la tabla y se le van aplicando los filtros que vengan llenos
 df_filtrado = df_contaminantes.copy()
 
-if filtro["sitio"]:
-    df_filtrado = df_filtrado[df_filtrado["Códigos de Localidad"] == filtro["sitio"]]
+if filtro["sitios"]:
+    df_filtrado = df_filtrado[df_filtrado["Códigos de Localidad"].isin(filtro["sitios"])]
 
 if filtro["fecha_inicio"]:
     df_filtrado = df_filtrado[df_filtrado["Fecha de Muestreo"] >= filtro["fecha_inicio"]]
@@ -117,12 +121,29 @@ parametro = filtro["parametro"]
 operacion = filtro["operacion"]
 
 if operacion == "maximo" and parametro:
-    #idxmax() da el indice de la fila donde esta el valor mas alto, no solo el valor
-    fila = df_filtrado.loc[df_filtrado[parametro].idxmax()]
-    resultado = f"{fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()}, sitio: {fila['Códigos de Localidad']})".strip()
+    if filtro["sitios"]:
+        #con varios sitios, se saca el maximo por cada uno por separado
+        indices_max = df_filtrado.groupby("Códigos de Localidad")[parametro].idxmax()
+        filas = df_filtrado.loc[indices_max]
+        resultado = "\n".join(
+            f"{fila['Códigos de Localidad']}: {fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()})"
+            for _, fila in filas.iterrows()
+        )
+    else:
+        #sin sitio especifico: un solo maximo de toda la tabla filtrada, igual que antes
+        fila = df_filtrado.loc[df_filtrado[parametro].idxmax()]
+        resultado = f"{fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()}, sitio: {fila['Códigos de Localidad']})".strip()
 elif operacion == "minimo" and parametro:
-    fila = df_filtrado.loc[df_filtrado[parametro].idxmin()]
-    resultado = f"{fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()}, sitio: {fila['Códigos de Localidad']})".strip()
+    if filtro["sitios"]:
+        indices_min = df_filtrado.groupby("Códigos de Localidad")[parametro].idxmin()
+        filas = df_filtrado.loc[indices_min]
+        resultado = "\n".join(
+            f"{fila['Códigos de Localidad']}: {fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()})"
+            for _, fila in filas.iterrows()
+        )
+    else:
+        fila = df_filtrado.loc[df_filtrado[parametro].idxmin()]
+        resultado = f"{fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()}, sitio: {fila['Códigos de Localidad']})".strip()
 elif operacion == "promedio" and parametro:
     valor = df_filtrado[parametro].mean()
     resultado = f"{valor} {extraer_unidad(parametro)}".strip()
@@ -130,4 +151,9 @@ else:
     #operacion "listar" (o si no vino parametro): se regresa la tabla filtrada completa
     resultado = df_filtrado
 
-print(resultado)
+if isinstance(resultado, pd.DataFrame):
+    #se voltea la tabla: cada muestra (identificada por su ID) queda como columna,
+    #y cada parametro como fila. Mucho mas legible en terminal que 26 columnas amontonadas
+    print(resultado.set_index("ID").T)
+else:
+    print(resultado)
