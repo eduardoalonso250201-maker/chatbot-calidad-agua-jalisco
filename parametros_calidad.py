@@ -8,6 +8,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 import os
 from dotenv import load_dotenv
+import re
 
 load_dotenv()
 
@@ -83,9 +84,15 @@ PREGUNTA: {pregunta}
 cadena_filtro = template_filtro | modelo | parser_filtro
 
 #primera prueba con una de tus preguntas de ejemplo
-pregunta_prueba = "cual fue el promedio de DQO en Juanacatlán"
+pregunta_prueba = "Cual fue la fecha de valor mas alto de DQO en Juanacatlán"
 filtro = cadena_filtro.invoke({"pregunta": pregunta_prueba})
 print(filtro)
+
+#funcion que saca la unidad de un nombre de columna, ej. "DQO (mg/L)" -> "mg/L"
+#si la columna no tiene parentesis (como pH), regresa vacio
+def extraer_unidad(nombre_columna):
+    match = re.search(r"\(([^)]+)\)", nombre_columna)
+    return match.group(1) if match else ""
 
 #Ahora se aplica el filtro que extrajo la IA sobre la tabla real con pandas
 
@@ -110,11 +117,15 @@ parametro = filtro["parametro"]
 operacion = filtro["operacion"]
 
 if operacion == "maximo" and parametro:
-    resultado = df_filtrado[parametro].max()
+    #idxmax() da el indice de la fila donde esta el valor mas alto, no solo el valor
+    fila = df_filtrado.loc[df_filtrado[parametro].idxmax()]
+    resultado = f"{fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()}, sitio: {fila['Códigos de Localidad']})".strip()
 elif operacion == "minimo" and parametro:
-    resultado = df_filtrado[parametro].min()
+    fila = df_filtrado.loc[df_filtrado[parametro].idxmin()]
+    resultado = f"{fila[parametro]} {extraer_unidad(parametro)} (fecha: {fila['Fecha de Muestreo'].date()}, sitio: {fila['Códigos de Localidad']})".strip()
 elif operacion == "promedio" and parametro:
-    resultado = df_filtrado[parametro].mean()
+    valor = df_filtrado[parametro].mean()
+    resultado = f"{valor} {extraer_unidad(parametro)}".strip()
 else:
     #operacion "listar" (o si no vino parametro): se regresa la tabla filtrada completa
     resultado = df_filtrado
