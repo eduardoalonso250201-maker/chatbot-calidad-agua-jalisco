@@ -1,0 +1,322 @@
+HUMEDALES CONSTRUIDOS PARA EL TRATAMIENTO DE AGUAS RESIDUALES
+
+===============================
+SECCIÓN 1: CONCEPTOS GENERALES
+===============================
+
+Definición:
+Los humedales son zonas de transición entre sistemas acuáticos y terrestres que se encuentran temporal o permanentemente inundadas (Comisión Nacional de Áreas Naturales, 2017).
+
+Funciones ecológicas generales:
+Los humedales naturales cumplen múltiples funciones ambientales: actúan como amortiguadores de inundaciones gracias a su capacidad de absorción de agua, funcionan como sumideros de carbono al absorber gases de efecto invernadero de la atmósfera debido a sus condiciones saturadas de agua y su flora diversa (Gibbens, 2023), y purifican el agua de forma natural, ya que las plantas presentes absorben distintos contaminantes que utilizan como nutrientes.
+
+Mecanismo general de purificación:
+Los humedales funcionan como un filtro natural que atrapa partículas y sedimentos del agua residual. Un consorcio de microorganismos descompone la materia orgánica presente, transformándola en nutrientes y gases liberados al ambiente. Las plantas absorben estos nutrientes (principalmente nitrógeno y fósforo) para su desarrollo. Adicionalmente, la aireación natural que ocurre en estos espacios aumenta los niveles de oxígeno disuelto en el agua, favoreciendo la descomposición microbiana (Kadlec & Wallace, 2008).
+
+Eficiencia general de tratamiento:
+Los humedales pueden eliminar hasta el 100% de ciertos contaminantes provenientes de descargas municipales, dependiendo del diseño y las condiciones de operación. En términos generales, esta tecnología puede eliminar hasta un 90% de los contaminantes del agua residual (Kadlec & Wallace, 2008).
+
+Ventajas generales:
+Los humedales representan una alternativa económica frente a los sistemas de tratamiento convencionales, lo que los hace especialmente atractivos para comunidades con recursos limitados. Son sistemas de bajo costo si se diseñan, operan y mantienen adecuadamente (Davis et al., 1995).
+
+===============================
+SECCIÓN 2: TIPOS DE HUMEDALES
+===============================
+
+2.1 Clasificación general (según nivel de intervención)
+
+Humedales de flujo libre:
+Sistemas abiertos que reciben agua residual de forma continua, funcionando de manera similar a un río que fluye sin cesar.
+
+Humedales de lecho de arena:
+Sistemas que cuentan con una capa de arena donde se infiltra el agua residual para su tratamiento, funcionando como un colador natural.
+
+Humedales construidos:
+Sistemas artificiales diseñados específicamente para tratar aguas residuales, replicando de forma controlada los procesos que ocurren en un humedal natural.
+
+2.2 Clasificación técnica de humedales construidos
+
+Los humedales construidos se dividen en dos categorías principales: flujo superficial (agua visible sobre la superficie) y flujo subsuperficial (agua que fluye por debajo del medio filtrante, sin quedar expuesta). El flujo subsuperficial, a su vez, se subdivide en flujo vertical, flujo horizontal, flujo vertical tipo francés y tipo híbrido (Vymazal y Kröpfelová, 2008).
+
+--- Humedal de flujo superficial libre (Free Water Surface Constructed Wetland, FWSCW) ---
+Es un humedal en el que el agua residual fluye sobre la superficie, de manera similar a un humedal natural. Es útil para prevención de inundaciones y control de erosión de orillas, además de mejorar la calidad del agua (Farooqi et al., 2008). Admite una amplia variedad de plantas: emergentes (Typha, Phragmites, Scirpus), sumergidas (Potamogeton, Elodea) y flotantes (Eichhornia, Lemna). Tiene una eficiencia media de remoción de metales traza de 45-53% (hierro, cobre, zinc, plomo), 50-60% para DBO y DQO, 70-80% para sólidos suspendidos totales (SST) y 50-65% para nitrógeno (El-Sheikh et al., 2010).
+
+--- Humedal de flujo horizontal subsuperficial (Horizontal Flow Constructed Wetland, HFCW) ---
+También conocido como sistema de lecho de carrizo (reed bed system). El agua residual fluye horizontalmente a través del lecho del humedal. Requiere entre 5 y 10 m² por habitante equivalente (PE). El agua pasa por condiciones aerobias (en la zona de raíces) y anaerobias (donde se degrada la materia orgánica). Es eficiente para remover DBO, DQO, nitrógeno amoniacal, fosfatos y sólidos suspendidos totales. Puede tratar aguas residuales industriales, agrícolas y de minería. Requiere más área que el flujo vertical, pero logra mejor desnitrificación.
+
+En las notas de clase se señala que en este tipo de humedal el proceso es principalmente anaerobio, y es importante instalar un controlador de nivel de agua para evitar que el sistema se "lave" (pierda su capacidad de retención), asegurando así el tiempo de residencia adecuado.
+
+--- Humedal de flujo vertical subsuperficial (Vertical Flow Constructed Wetland, VFCW) ---
+El agua residual se aplica desde la parte superior del humedal y se drena por la parte inferior, fluyendo verticalmente a través del lecho. Ofrece condiciones aerobias, lo que favorece una alta nitrificación y remoción de DBO, DQO y otros contaminantes. Requiere menos área que el flujo horizontal (1-3 m² por PE), pero demanda más mantenimiento.
+
+Según las notas de clase, en este sistema se favorece la respiración aerobia de los microorganismos y no es necesario un controlador de nivel, ya que el agua se aplica en pulsos (se recomiendan de 6 a 8 pulsos por día) en lugar de flujo continuo.
+
+--- Humedal de flujo vertical tipo francés (French Vertical Flow Constructed Wetland) ---
+Es un sistema de flujo vertical de dos etapas, dispuesto en paralelo y que funciona en serie. Tiene una eficiencia de remoción similar al flujo vertical convencional, pero con menor costo de construcción. Requiere entre 2.0 y 2.5 m² por PE y muestra variaciones mínimas ante cambios en la carga hidráulica o el clima (Paing et al., 2015).
+
+Según las notas de clase, este sistema funciona con cámaras en paralelo: algunas operan durante 3.5 días y descansan 7 días para restablecerse, mientras bombas dirigen el flujo hacia otras cámaras paralelas de mayor tamaño.
+
+--- Humedal híbrido (Hybrid Constructed Wetland) ---
+Combina múltiples etapas de tratamiento, típicamente una combinación de flujo horizontal y flujo vertical (Davis et al., 1995). Su eficiencia de remoción es generalmente mayor que la de un solo tipo de humedal, ya que aprovecha las condiciones aerobias y anaerobias de cada etapa según las características del agua residual a tratar.
+
+--- Humedal de flujo subsuperficial con deflectores (Baffled Sub-surface Flow Constructed Wetland) ---
+Incluye deflectores verticales (baffles) a lo largo del ancho del humedal, que obligan al agua a fluir hacia arriba y hacia abajo a través del lecho. Esto aumenta el tiempo de contacto entre el agua y el medio filtrante, logrando una alta remoción de nitrógeno.
+
+--- Humedal aireado (Aerated Constructed Wetland) ---
+Incorpora aireadores mecánicos para suplir el requerimiento de oxígeno, requiriendo menos energía que un tratamiento convencional. Mejora la eficiencia cuando la disponibilidad natural de oxígeno es baja (Sánchez-Monedero et al., 2008).
+
+--- Humedal de flujo libre multitrófico (Multi-tropic Free Flow Engineered Wetland) ---
+Utiliza plantas acuáticas flotantes (como Eichhornia crassipes y Lemna sp.) que crecen directamente en el agua residual. Son útiles para remover nitrógeno y fosfatos, aunque tienen baja remoción de DBO y DQO. Requiere cosecha regular para mantener su eficiencia; la biomasa producida puede reutilizarse como combustible, fertilizante o suplemento alimenticio animal.
+
+===============================
+SECCIÓN 3: COMPONENTES DEL HUMEDAL
+===============================
+
+La eficiencia de un humedal depende principalmente de tres componentes: las plantas (vegetación), el medio filtrante y los microorganismos. Los primeros dos son los que más se pueden controlar en el diseño, ya que en gran medida determinan la composición de la comunidad microbiana.
+
+3.1 Vegetación
+
+Funciones físicas de las plantas: transpiración, resistencia al flujo del agua y atrapamiento de partículas. A lo largo de las estaciones del año, las plantas retienen o liberan nutrientes, funcionando como un "volante nutrimental". También ofrecen superficie de adherencia para microorganismos (micorrizas, rizobacterias). La presencia de distintos tipos de plantas también permite modular la oxigenación del sistema: las plantas emergentes tienden a disminuir el oxígeno disponible, mientras que las plantas sumergidas lo aumentan.
+
+Clasificación de macrófitas (plantas acuáticas):
+Las macrófitas utilizadas se dividen en emergentes, flotantes (libres o arraigadas) y sumergidas. En las zonas costeras de humedales superficiales suelen predominar las plantas emergentes; hacia el fondo se encuentran las flotantes, y en las zonas más profundas, las sumergidas. En humedales superficiales pueden colocarse pequeños islotes para las plantas emergentes. En humedales subsuperficiales, siempre se utilizan plantas emergentes.
+
+Selección de especies:
+Se recomienda usar plantas endémicas con resistencia demostrada a los contaminantes que se busca tratar. Para aguas residuales municipales, las plantas suelen crecer bien porque los contaminantes funcionan hasta cierto punto como nutrientes; el reto mayor se presenta con residuos industriales.
+
+Especies con mejor desempeño documentado: Typha domingensis, Phragmites australis, Schoenoplectus californicus, Phalaris arundinacea, Arundo donax y Eichhornia crassipes. Se destaca que Phragmites australis y Typha latifolia muestran consistentemente mayor eficiencia de remoción de contaminantes en comparación con otras especies, en múltiples estudios (Sudarsan et al., 2018). Estas dos especies pueden captar nitrógeno y fósforo del agua residual en proporciones de hasta el 70%.
+
+Typha sp. ha demostrado ser una de las macrófitas más tolerantes, invasoras y productivas en humedales de tratamiento a nivel mundial.
+
+Sobre policultivos: aún no existe evidencia sólida de que combinar varias especies de plantas en un mismo humedal aporte un beneficio significativo de eficiencia; se argumenta que los policultivos pueden ser más resilientes, pero no necesariamente más eficientes que los monocultivos.
+
+Humedales de sauce: existen humedales que utilizan especies arbóreas (como el sauce), caracterizados por tener un flujo de salida casi nulo, ya que la evapotranspiración es tan elevada que gran parte del agua se evapora en lugar de salir del sistema.
+
+Adaptaciones estructurales de las plantas de humedal:
+- Presencia de aerénquima (tejido con espacios de aire) en tallos y raíces
+- Adaptaciones de la raíz: raíces adventicias, sistema de raíces someras (poco profundas), neumatóforos (raíces especializadas para respirar) y raíces de apoyo
+- Adaptaciones del tallo: elongación e hipertrofia del tallo (crecimiento excesivo en respuesta a las condiciones ambientales), y presencia de lenticelas (poros para intercambio de gases)
+
+Adaptaciones fisiológicas:
+- Flujo de gas presurizado: dado que la difusión de oxígeno en el agua es mucho más lenta que en el suelo, los tallos más jóvenes (con menor porosidad) generan presión interna que empuja el aire caliente hacia afuera a través de los tallos más viejos, de mayor porosidad, logrando así la oxigenación de la planta
+- Oxigenación rizosférica (liberación de oxígeno hacia la zona de raíces)
+- Disminución en la captación de agua
+- Alteración en la absorción de nutrientes
+- Protección contra sulfuros: en la rizósfera, el sulfuro se oxida a sulfato, evitando que la planta se exponga directamente a su forma tóxica
+- Respiración anaeróbica
+
+3.2 Microorganismos
+
+Un concepto clave es la rizósfera, la zona de influencia de las raíces de las plantas. Es una zona predominantemente aerobia donde abundan las bacterias. Las bacterias que logran adaptarse a las condiciones de los humedales son las principales responsables de la remoción de contaminantes, transformando, por ejemplo, el carbono orgánico en CO2 y agua.
+
+3.3 Hongos
+
+Los hongos también pueden utilizarse en humedales de tratamiento. Existen especies muy efectivas para remover metales pesados y controlar olores provenientes de vinazas. Esta línea de investigación aún está en desarrollo, con la expectativa de usarlos en combinación con otras plantas en el futuro.
+
+3.4 Algas
+
+Las algas forman parte del consorcio biológico del humedal, contribuyendo a los procesos de fotosíntesis y ciclo de nutrientes junto con plantas y bacterias.
+
+3.5 Medio filtrante
+
+El medio filtrante cumple un papel fundamental en la remoción de fósforo, sulfatos y arsenatos, además de proporcionar una superficie para la actividad bacteriana. Diversos materiales pueden emplearse como medio filtrante, cada uno con ventajas específicas:
+
+- Hierro de valencia cero (zero-valent iron): útil para la sorción de arsenato; combinado con cobre en forma bimetálica, también ayuda a remover fósforo (Eljamal et al., 2013, 2020)
+- Aserrín (sawdust): material de bajo costo, rico en fuente de carbono, que favorece la reducción biológica de sulfatos y la actividad bacteriana (Eljamal et al., 2007, 2008, 2009)
+- Polvo de mármol: logra una mayor remoción de fósforo (Osama et al., 2012)
+- Composta de residuos: mantiene una naturaleza alcalina en el medio, favoreciendo el crecimiento de las plantas, además de ser una solución de manejo de residuos (Benito et al., 2005)
+- Biocarbón (biochar): tiene capacidad de remover sólidos suspendidos, nutrientes y metales pesados (Reddy et al., 2014; Khan et al., 2019)
+- Agregado de arcilla expandida ligera (LECA, Lightweight Expanded Clay Aggregate): destaca por su alta porosidad y rápida adhesión, lo cual favorece la formación de biopelícula (biofilm) y ofrece mayor superficie para el crecimiento rápido de las plantas (Mesquita et al., 2013)
+- Escoria de cúpula (cupola slag): rica en hierro, con alta capacidad de adsorción de fósforo (Saeed et al., 2012)
+- Grava, arena, ladrillo reciclado, bagazo de caña de azúcar, tepetate/toba volcánica, entre otros
+
+Un caso comparativo documentado: un humedal con toba volcánica como medio, sembrado con caña de azúcar, carrizo y juncos, mostró variaciones de eficiencia frente a un humedal con grava y piedras de río sembrado con las mismas especies. La captación de nitrógeno disminuyó al aumentar la carga hidráulica; la captación de nitrógeno fue de solo 63.8% en el medio de toba volcánica sembrado con Phragmites, mientras que la remoción de fósforo fue de 41.9% en un lecho de grava (Avsar et al., 2007).
+
+===============================
+SECCIÓN 4: FUNDAMENTOS DEL MODELO DE ACCIÓN (MECANISMOS DE REMOCIÓN)
+===============================
+
+El mecanismo de remoción de contaminantes en un humedal construido incluye procesos físicos, químicos y biológicos:
+
+4.1 Procesos físicos
+
+Sedimentación: las partículas suspendidas en el agua residual se depositan en el fondo del sistema por efecto de la gravedad. A mayor tiempo de retención del agua residual, mayor será la sedimentación lograda. Este proceso no solo reduce la materia orgánica, sino que también elimina bacterias coliformes (Carter y Norton, 2007; Dotro et al., 2015).
+
+4.2 Procesos químicos
+
+Adsorción: proceso clave para la remoción de fósforo, especialmente eficaz cuando se usa escoria de cúpula rica en hierro (alta capacidad de adsorción). Los metales pesados también se remueven mediante adsorción. Cuando se usa zeolita como medio, la remoción de fósforo es especialmente alta por su efectividad de adsorción (Liu et al., 2008).
+
+4.3 Procesos biológicos: ciclo del nitrógeno
+
+Amonificación: es el primer paso en la transformación del nitrógeno. Consiste en la conversión de nitrógeno orgánico a nitrógeno amoniacal (NH4-N). Depende del pH y la temperatura. Ocurre rápidamente en condiciones aerobias y lentamente en condiciones anaerobias (Kadlec y Knight, 1996; Reddy et al., 1984).
+
+Nitrificación: es el siguiente paso después de la amonificación. Es un proceso mayormente aerobio de dos etapas: primero el amonio se convierte en nitrito, y después el nitrito se oxida a nitrato (forma de mayor solubilidad). Las bacterias responsables de este proceso incluyen especies de los géneros nitrosomonas, nitrosococcus y nitrosospira.
+
+Desnitrificación: es el proceso inverso a la nitrificación, mayormente anaerobio. En este proceso, el nitrato se reduce a nitrito, y este a su vez se reduce hasta formar nitrógeno gaseoso (N2), que se libera a la atmósfera. Las bacterias útiles para este proceso incluyen géneros como bacillus, enterobacter, micrococcus pseudomona y spirillum.
+
+Resumen del ciclo completo del nitrógeno en el humedal: nitrógeno orgánico → amoniacal (amonificación) → nitrito → nitrato (nitrificación) → nitrito → nitrógeno gaseoso N2 (desnitrificación, requiere ausencia de oxígeno y bacterias con fuente de carbono disponible).
+
+Nota importante: en los humedales de flujo vertical, a veces la remoción de nitrógeno total puede ser prácticamente nula, ya que el proceso solo transforma la forma química en que se presenta el nitrógeno, sin eliminarlo completamente del sistema si no se completa el ciclo hasta N2 gaseoso.
+
+4.4 Fotosíntesis y fermentación
+
+La fotosíntesis es el proceso mediante el cual plantas, bacterias y algas utilizan la energía solar para formar dióxido de carbono y agua. El humedal construido alberga bacterias, hongos, algas y protozoarios que realizan fotosíntesis. La fermentación, por su parte, ocurre en ausencia de oxígeno y descompone el carbono orgánico para producir metano, alcohol y ácidos grasos volátiles.
+
+Los tratamientos anaerobios generalmente se reservan para aguas residuales con concentraciones muy elevadas de contaminantes; en estos casos, incluso pueden recuperarse biocombustibles como metano o hidrógeno como subproducto del proceso.
+
+===============================
+SECCIÓN 5: CONDICIONES AMBIENTALES QUE AFECTAN LA EFICIENCIA
+===============================
+
+Clima: la vegetación debe estar adaptada al clima local para funcionar correctamente.
+
+Precipitación: la lluvia y la evapotranspiración afectan de forma distinta el desempeño según la zona (húmeda o seca). En época de lluvias, la concentración de contaminantes puede disminuir por efecto de dilución.
+
+Fotoperiodo: las horas de luz disponibles influyen en la actividad fotosintética de las plantas y, por tanto, en la oxigenación del sistema.
+
+Temperatura y estacionalidad: en regiones templadas (como Europa), las plantas de los humedales pueden secarse durante el periodo invernal, afectando la eficiencia. En general, el desempeño de muchas especies mejora en temporada cálida (verano) en comparación con la temporada fría.
+
+pH: es un parámetro crítico porque determina qué tan soluble puede ser un metal o un nutriente. En los humedales horizontales subsuperficiales (HSSFH), el pH tiende a desplazarse hacia el valor contrario al de entrada (de básico a ácido o viceversa). Es resultado de múltiples reacciones de oxidación-reducción dentro del sistema. A pH más bajo, es más difícil que la comunidad microbiana se mantenga y las reacciones de nitrificación se reducen. Los carbonatos aportan alcalinidad al agua. Los humedales de flujo vertical tienden a bajar el pH del efluente.
+
+===============================
+SECCIÓN 6: TIPOS DE AGUAS RESIDUALES Y CONTAMINANTES
+===============================
+
+6.1 Aguas residuales municipales
+Contienen principalmente: nitrógeno, patógenos, fósforo, sólidos en suspensión y contaminantes emergentes.
+
+6.2 Aguas residuales industriales
+Incluyen efluentes de industrias como la tequilera, textil, química, petroquímica, de alimentos y de curtiduría. Contienen: compuestos emergentes, compuestos recalcitrantes (difíciles de degradar), hidrocarburos y metales pesados.
+
+6.3 Escorrentías de terrenos de cultivo
+Contienen: sólidos en suspensión, plaguicidas, fósforo y nitrógeno.
+
+6.4 Efluentes ácidos de minería
+Contienen: sólidos en suspensión, pH bajo y metales pesados.
+
+6.5 Contaminantes convencionales
+
+Nitrógeno: se encuentra en el agua de forma soluble como nitrito, nitrato y nitrógeno amoniacal. Requiere una serie de transformaciones bioquímicas (ver Sección 4.3) para eliminarse como N2 gaseoso.
+
+Fósforo (P): nutriente clave cuya remoción depende principalmente de procesos de adsorción con el medio filtrante adecuado.
+
+Microcistinas: toxinas producidas por cianobacterias, relevantes en cuerpos de agua eutrofizados (ver documentación específica sobre microcistinas y el Lago de Chapala para mayor detalle).
+
+6.6 Contaminantes emergentes
+
+Se han identificado en las últimas dos o tres décadas y cuentan con menos investigación disponible. Características: no están regulados, sus efectos en la salud humana, animal y de los ecosistemas son poco conocidos, su presencia en cuerpos de agua está ampliamente documentada, tienen origen y naturaleza química muy diversa, y muchos actúan como disruptores endócrinos.
+
+Ejemplos de contaminantes emergentes: plaguicidas, productos farmacéuticos, productos de cuidado personal, hormonas esteroides, drogas ilícitas, aditivos industriales, retardantes de flama, surfactantes, cafeína, nicotina y colorantes.
+
+6.7 Facilidad de remoción por tipo de contaminante
+
+Contaminantes de fácil remoción: materia orgánica, sólidos en suspensión, nitrógeno y fósforo.
+
+Contaminantes de difícil remoción: hidrocarburos, metales pesados, plaguicidas, explosivos y contaminantes emergentes. Dentro de estos, los fármacos son considerados los más difíciles de remover.
+
+===============================
+SECCIÓN 7: CRITERIOS DE DISEÑO
+===============================
+
+Tiempo de retención hidráulico (TRH): tiempo que transcurre desde que una gota de agua entra al humedal hasta que sale de él. Se recomienda experimentar iniciando con un TRH medio de 2 días. Este parámetro es afectado por la temperatura de la zona. Para descargas municipales, se recomienda un TRH mínimo de 3 días.
+
+Carga hidráulica (caudal por unidad de área): el caudal determina directamente el tiempo de retención hidráulico. Si el caudal aumenta, el tiempo de retención disminuye. Mientras más tiempo permanezca el agua residual en el sistema, más eficiente es el proceso de remoción de contaminantes. Este es uno de los parámetros más importantes a controlar en el diseño.
+
+Carga orgánica: cantidad de materia orgánica que ingresa al sistema por unidad de tiempo y área.
+
+Relación largo/ancho (L/W) y profundidad: afecta el patrón de flujo del agua dentro del humedal y, por tanto, su eficiencia.
+
+Inclinación: es importante que el humedal tenga una ligera inclinación para que el flujo del agua se dirija naturalmente hacia la salida.
+
+Geomembrana: se recomienda instalar una geomembrana (idealmente biodegradable) para evitar la infiltración de lixiviados hacia el subsuelo.
+
+Escala del humedal: algunos autores dimensionan la capacidad del humedal en función de los metros cuadrados necesarios para tratar el agua residual generada por una persona (m²/persona o m²/PE, "población equivalente").
+
+Selección del diseño según el uso final del agua tratada: es fundamental definir para qué se utilizará el agua tratada antes de diseñar el sistema, ya que distintos diseños remueven distintos contaminantes de forma más o menos completa. Por ejemplo, para agua destinada a riego agrícola no es necesario remover completamente los nitratos (incluso pueden ser benéficos como fertilizante), mientras que para aguas que requieren mayor pureza sí se necesita un sistema que los remueva por completo.
+
+===============================
+SECCIÓN 8: TECNOLOGÍAS ESPECIALIZADAS
+===============================
+
+8.1 Tecnología Phytorid
+
+Diseñada y patentada por el National Environmental Engineering Research Institute (NEERI) de Nagpur, India. Involucra procesos físicos, químicos y biológicos, con tres unidades independientes: unidad de filtro avanzado (donde ocurre digestión anaerobia), celda de tratamiento Phytorid (que trata el agua sin uso de químicos) y celda de recolección final. Mejora la capacidad de tratamiento biológico y ofrece buenos resultados para tratamiento secundario y terciario de aguas municipales. Plantas principalmente utilizadas: Phragmites australis, Phalaris arundinacea, Glyceria maxima, Typha spp., Scirpus spp. y Canna spp. Remociones esperadas: sólidos suspendidos totales 75-95%, DBO 80-96%, DQO 80-94%, nitrógeno total 80-92%, fósforo total 80-92% y coliformes fecales 85-95% (Patil y Gawande, 2016). Es una tecnología costo-efectiva y ecoamigable.
+
+8.2 Tecnología de Biotecnología del Suelo (Soil Bio Technology)
+
+Proceso de tratamiento realizado por microorganismos del suelo, como lombrices geófagas. Es un proceso ideal para tratar caudales de aguas residuales menores a 5 millones de litros por día (MLD). Capaz de remover DBO, DQO, amoniaco, nitrógeno, nitrato, sólidos suspendidos, bacterias, color y olor. Aprovecha procesos naturales fundamentales como fotosíntesis, respiración y meteorización mineral. Es un sistema aerobio único que combina procesos físicos, químicos y biológicos. Logra una remoción de bacterias del 99.99%. Requiere un área de aproximadamente 0.021 m² por persona por día.
+
+===============================
+SECCIÓN 9: VENTAJAS Y DESVENTAJAS
+===============================
+
+9.1 Ventajas
+
+- Bajo costo de operación y mantenimiento (aproximadamente 1-2% del costo de la planta)
+- Puede tratar múltiples tipos de aguas residuales: agrícolas, lácteas industriales, curtiduría industrial, textil industrial, pulpa y papel, drenaje ácido de minas, entre otras
+- El agua tratada puede reutilizarse para fines recreativos y de jardinería
+- Reduce la concentración de contaminantes que llegan a los cuerpos de agua río abajo
+- Ofrece alta eficiencia de remoción: DBO 80-90%, DQO 60-85%, sólidos suspendidos totales 80-95%
+- Ayuda en la remoción de nitrógeno amoniacal y fósforo
+- Es un tratamiento descentralizado, permitiendo recolectar y tratar el agua residual de una comunidad en un solo punto
+- No requiere consumo de energía eléctrica significativo, a diferencia de tecnologías como MBBR o SBR
+
+9.2 Desventajas
+
+- La vegetación produce biomasa que requiere cosecha regular para mantener la eficiencia óptima, lo cual incrementa el costo de mantenimiento
+- Cada especie de planta tiene tasas de remoción distintas para cada contaminante; no es posible remover todos los contaminantes con una sola especie
+- El proceso de tratamiento es más lento comparado con otras tecnologías, y su eficiencia varía según la temporada del año (mejor en verano que en invierno)
+- Las plantas contaminadas (que absorbieron metales pesados u otros tóxicos) deben desecharse de forma adecuada, no pueden reincorporarse al ambiente sin tratamiento
+- El proceso de tratamiento varía según el compuesto contaminante presente; no todos los compuestos se tratan con la misma eficacia
+- En humedales de flujo superficial libre, algunos contaminantes (como metales pesados) no se fitorremedian eficientemente, y puede presentarse proliferación de mosquitos como problema adicional
+
+===============================
+SECCIÓN 10: COMPARACIÓN CON OTRAS TECNOLOGÍAS DE TRATAMIENTO
+===============================
+
+Existen diversas tecnologías alternativas de tratamiento de aguas residuales: lagunas de estabilización (Waste Stabilization Pond), lagunas de lenteja de agua (Duckweed Pond), proceso de lodos activados (Activated Sludge Process, ASP), filtros percoladores (Trickling Filters), reactor anaerobio de flujo ascendente con manto de lodos (UASB), reactor de biopelícula de lecho móvil (MBBR) y reactor por lotes secuenciales (SBR).
+
+Cada tecnología difiere en requerimiento de área, costo, periodo de recuperación de inversión (payback period) y eficiencia de remoción. Entre estas tecnologías, el humedal construido resulta sostenible y de bajo costo, con menor periodo operativo y de mantenimiento requerido en comparación con las demás, aunque generalmente requiere mayor superficie de terreno.
+
+Comparación de remoción de DBO: ASP 85-92%, filtro percolador 80-90%, lagunas de estabilización 75-85%, MBBR 85-95%, aereación extendida 95-98%, SBR 95-99%, humedal construido 80-91%, laguna de lenteja de agua 75-85%.
+
+Comparación de requerimiento de área: humedal construido requiere 1.5-2.5 m² por persona, laguna de estabilización 2-3 m² por persona, MBBR y SBR requieren menos área (0.05-0.2 m² por persona), pero con mayor costo energético y de mantenimiento.
+
+Comparación de costo de mantenimiento anual: el humedal construido y la tecnología Phytorid requieren solo 1-2% del costo de capital, mientras que MBBR requiere 20-25% y SBR 25-30% del costo de capital — significativamente más caros de mantener a largo plazo, aunque ocupan menos terreno.
+
+===============================
+SECCIÓN 11: ESTRATEGIAS DE MEJORA E INNOVACIÓN
+===============================
+
+- Distribución de las entradas de agua: para que las plantas ubicadas al inicio del sistema no sufran un exceso de exposición a contaminantes de forma concentrada
+- Cosecha de la vegetación: retirar periódicamente las plantas para evitar que los contaminantes acumulados se reintegren al sistema
+- Adición de fuente de carbono: cuando el agua a tratar no cuenta con suficiente materia orgánica, es necesario agregar una fuente de carbono externa (por ejemplo, rastrojo de maíz) para que se complete el proceso de nitrificación-desnitrificación y se libere nitrógeno gaseoso, especialmente cuando el efluente ya viene pretratado (por ejemplo, proveniente de un sistema de lodos activados) y su materia orgánica original ya fue consumida
+- Aislamiento térmico: para proteger el sistema de variaciones extremas de temperatura
+- Recirculación de efluentes: reingresar parte del agua tratada al sistema para mejorar la eficiencia de remoción
+- Operación de llenado y vaciado: alternar ciclos de inundación y secado del lecho
+- Aireación: incorporar aireadores mecánicos para complementar el oxígeno disponible de forma natural
+- Incorporación de deflectores (baffles): para alargar el recorrido del agua dentro del sistema y aumentar el tiempo de contacto
+- Celdas de combustible microbianas: tecnología en desarrollo para generar electricidad a partir de la actividad microbiana del sistema
+- Corredor de flujo circular: diseño alternativo de distribución del flujo de agua dentro del humedal
+
+===============================
+SECCIÓN 12: HUMEDALES EN JALISCO Y MÉXICO
+===============================
+
+Humedal artificial de Cihuatlán, Jalisco:
+Ubicado en la costa tropical del Pacífico de Jalisco, entró en operación en agosto de 2021, siendo de los primeros proyectos de esta magnitud en México. Se construyó con el apoyo de Arca Continental en alianza con Coca-Cola México, con acompañamiento técnico de Pronatura México y Pronatura Noroeste, y es operado por el Gobierno Municipal de Cihuatlán. El sistema trata 1,072.2 millones de litros de agua residual municipal al año, con un flujo constante de 34 litros por segundo (capacidad de hasta 35 L/s), beneficiando a 18,787 personas. El agua tratada se destina al dren agrícola de Jalisco, contribuyendo a la recuperación del río Marabasco y cuerpos de agua asociados, reduciendo riesgos sanitarios y disminuyendo la presión sobre los acuíferos locales. El agua tratada es apta para riego de cultivos forrajeros, lo cual ha ayudado a productores agrícolas de la zona a enfrentar periodos de sequía. El proyecto también ha contribuido a la recuperación de biodiversidad local, particularmente de especies de aves migratorias. El municipio de San Diego de Alejandría (dentro del área de influencia del proyecto) se ha convertido en un referente regional en tratamiento de aguas residuales mediante humedales, destacando el bajo costo de mantenimiento del sistema como una ventaja clave para municipios pequeños.
+
+Investigación académica sobre humedales construidos en México:
+Zurita-Martínez, F. y Sandoval-Herazo, L. C. publicaron en 2024 un artículo titulado "La tecnología de los humedales construidos para el tratamiento de aguas residuales", que aborda específicamente el contexto mexicano y latinoamericano. El artículo señala que, en México y otros países de América Latina, la mayoría de las aguas residuales tratadas provienen de zonas urbanas, mientras que las zonas rurales y las pequeñas industrias suelen carecer de sistemas de tratamiento adecuados, lo cual hace de los humedales construidos una alternativa particularmente relevante para estos contextos. El trabajo clasifica los humedales en convencionales (flujo superficial y subsuperficial) e intensificados (que incorporan aireación para acelerar la remoción de contaminantes), y examina específicamente el tratamiento de aguas residuales de la industria tequilera, relevante para la región de Jalisco dado que es la principal zona productora de tequila del país. Las vinazas tequileras (residuo líquido de la destilación) presentan concentraciones de DQO extremadamente altas (del orden de 20,000 mg/L a la entrada del sistema), muy superiores a las de aguas residuales municipales convencionales (aproximadamente 1,000 mg/L); tras el tratamiento con humedales, la DQO puede reducirse a un rango de 1,500 a 2,000 mg/L.
+
+Otros proyectos de humedales construidos a gran escala en México:
+Además de Cihuatlán, se han desarrollado proyectos similares en otras regiones del país, como una planta en Mexicali, Baja California, que amplía una planta de tratamiento existente con etapas adicionales basadas en humedales construidos (un humedal de flujo vertical de aproximadamente 12,800 m² y un humedal de flujo superficial de aproximadamente 14,000 m²), diseñada para operar en una zona árida del norte de México.
+
+Relevancia para el tratamiento de aguas de la industria tequilera y otros efluentes industriales en Jalisco:
+Los humedales construidos representan una alternativa viable para industrias características de la región de Jalisco (tequilera, agroindustrial), así como para el tratamiento de aguas municipales de comunidades ribereñas de cuerpos de agua como el Lago de Chapala y el Río Santiago, contribuyendo potencialmente a reducir la carga de contaminantes (incluyendo nutrientes que favorecen la proliferación de cianobacterias productoras de microcistinas) que llega a estos cuerpos de agua.
+
+===============================
+NOTA METODOLÓGICA
+===============================
+
+Este documento sintetiza información de tres fuentes: notas de clase sobre humedales de tratamiento (impartidas por el investigador Zurita), un artículo académico de revisión sobre tipos, tratamiento y tecnología de humedales construidos (Parde et al., 2020, publicado en Environmental Technology & Innovation), y una introducción general al tema de humedales. Se complementó con información verificada específicamente sobre proyectos de humedales construidos en Jalisco y México, incluyendo el trabajo de investigación de Zurita-Martínez y Sandoval-Herazo (2024), quien coincide con el investigador referido en las notas de clase originales.

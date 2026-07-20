@@ -1,0 +1,119 @@
+Contaminación por microcistinas en el agua del lago de Chapala: contexto actual, importancia, posibles estrategias de detección, cuantificación y saneamiento
+
+Autores: Ana S. Márquez-García y Eduardo A. López-Ornelas
+Ingeniería en Biotecnología, Instituto Tecnológico y de Estudios Superiores de Occidente - ITESO AC. Universidad Jesuita de Guadalajara. Periférico Sur Manuel Gómez Morin 8585, Col. ITESO. Tlaquepaque Jalisco, México.
+Correo: ana.marquez@iteso.mx
+
+Palabras clave: Microcistinas, tratamiento de agua, cianobacterias, Jalisco, lago de Chapala
+
+RESUMEN
+
+Las microcistinas son hepatotoxinas producidas por una gran variedad de cianobacterias, incluyendo Microcystis sp. Las floraciones de estas cianobacterias en el Lago de Chapala se han vuelto cada vez más comunes debido a los aumentos en la temperatura y a la hipereutrofización de este cuerpo acuífero. Por este motivo, en este informe se proponen metodologías de muestreo, cuantificación y saneamiento de microcistinas en el lago de Chapala a partir del análisis y síntesis de investigaciones previas en la región y en otras partes del mundo.
+
+MARCO TEÓRICO
+
+En las últimas décadas se han visto muchas consecuencias ambientales a causa de actividades antropogénicas, unas más notables que otras, por ejemplo, la escasez de agua, el calentamiento global y la reducción masiva de ecosistemas naturales. Por otra parte, hay consecuencias que son paulatinas y en ocasiones difíciles de identificar como la erosión de los suelos, la acidificación de los cuerpos de agua, la eutrofización de suelos y agua, entre otros. No obstante, sin importar si pueden o no ser apreciadas a simple vista, todas estas consecuencias negativas a causa de actividades antropogénicas van desencadenando una reacción en cadena para deteriorar los ecosistemas de manera acelerada, haciendo de especial importancia la investigación y difusión de estas problemáticas.
+
+En este trabajo se abordará la aparición y prevalencia de grandes floraciones de cianobacterias productoras de microcistinas (MC) en varias regiones tropicales y subtropicales, con un enfoque específico en el lago de Chapala. Asimismo, se busca recuperar información sobre la detección y tratamiento de estas toxinas con el propósito de plantear una posible estrategia para tratar esta problemática en el contexto actual de Jalisco, México.
+
+Cianobacterias y microcistinas
+
+Las cianobacterias son microorganismos tan antiguos como la vida misma en la tierra, de hecho, son las principales responsables de haber generado una atmosfera oxigenada, dando pie a la vida como la conocemos hoy en día (Schirrmeister et al., 2015) y siguen siendo actores importantes en la producción de O2, fijación de N y C. Muchas especies son capaces de almacenar nutrientes esenciales, lo que les permite desarrollarse en condiciones adversas y con una población muy grande, creando floraciones.
+
+Entre los géneros más comunes que producen floraciones se destacan Microcystis, Raphidiopsis, Anabaena, Planktothrix, Aphanizomenon y Nodularia, siendo Microcystis el género más común (Pírez Schirmer, 2019). Estos microorganismos suelen desarrollarse en cuerpos de agua de regiones tropicales y subtropicales, particularmente en temporadas cálidas también conocidas como temporada estival, en donde bajan los niveles de agua, los contaminantes se concentran más y la temperatura del agua aumenta, conduciendo a una pérdida de la transparencia del agua para dar paso a una coloración verde indicadora de floraciones de microorganismos, entre ellos las cianobacterias (Demeke, 2016). Por este motivo, en regiones frías tiende a no haber floraciones de estos microorganismos, mientras que en regiones templadas estas aparecen a finales del verano y desaparecerán en el invierno. En las regiones cálidas donde la radiación solar es constante puede que tengan floraciones durante todo el año o en cuerpos de agua poco profundos también se pueden encontrar floraciones en todas las estaciones de año (Demeke, 2016). Esto es el caso del lago de Chapala, donde además se vierten grandes cantidades de desechos domésticos e industriales, provocando la acumulación excesiva de nutrientes, es decir la hipereutrofización, creando el ambiente óptimo para el crecimiento de cianobacterias.
+
+Las cianobacterias son especialmente preocupantes por su amplia distribución, su capacidad de limitar el paso de la luz, alcalinizar el pH y disminuir el oxígeno disuelto en cuerpos de agua. Asimismo, producen diversas toxinas, entre ellas las microcistinas. Estos compuestos son péptidos hepatotóxicos bioacumulables y biomagnificables que pueden causar efectos agudos como episodios alérgicos, síntomas de asma y fiebre, así como efectos crónicos como daño mutagénico y genotóxico que a su vez pueden causar cáncer de hígado, afectaciones maternas, embrionarias y fetales (Pérez-Vázquez et al., 2018).
+
+NORMATIVAS Y CONTEXTO ACTUAL
+
+Debido a la alta toxicidad de las microcistinas, la Organización Mundial de la Salud estableció un límite provisional de 1 µg/L de microcistina-LR para agua potable, así como un consumo máximo de 0.04 µg/kg de peso corporal. No obstante, cabe resaltar que la información sobre la toxicidad de la microcistina se limita a la variedad LR, la cual es considerada la más común y tóxica, pero aun es necesario seguir realizando estudios para tener un mayor entendimiento de las toxinas de las cianobacterias (Organización Mundial de la Salud, 2011). Asimismo, la Organización Mundial de la Salud (2003) también establece un límite recomendado de 2-4 µg/L de MC-LR para mantener un riesgo a posibles efectos en la salud bajos.
+
+De acuerdo con Pérez-Vázquez et al. (2018), se encontraron concentraciones de 0.60 a 0.107 µg/L de MC-LR y de cantidades no detectables a 0.015 µg/L de MC-RR en 5 diferentes puntos a lo largo de la ribera del lago de Chapala. Y a pesar de estar dentro del rango establecido por la OMS, estos consideran principalmente los efectos agudos causados por exposiciones únicas a microcistinas debido a la falta de más información sobre exposición crónica y sus efectos a largo plazo. Por este motivo, se desconoce si las concentraciones encontradas en este cuerpo de agua puedan causar consecuencias en la población expuesta a estas toxinas diariamente, aunque diversos autores proponen un valor de 0.01 µg/L de MC-LR para evitar daños crónicos (Pérez-Vázquez et al., 2018).
+
+A pesar de que la OMS ha sugerido el monitoreo y control de las microcistinas desde 2003, en México, apenas se incluyó este componente en la nueva actualización de la NOM-127-SSA1-2021 de agua para uso y consumo humano, la cual debe de entrar en vigor en el año 2024. Sin embargo, aunque es requerido por la ley, aún no se cuenta con métodos de detección de MC ofrecidos en centros de análisis mexicanos.
+
+PROBLEMÁTICAS Y LIMITACIONES
+
+Uno de los factores limitantes en el análisis de muestras es el costo de los equipos y reactivos necesarios para hacerlo. La NOM-127-SSA1-2021 establece que para determinar la presencia o ausencia de microcistinas, se debe llevar a cabo mediante el método ELISA, para el cual se debe de agregar una cantidad conocida de MC a un blanco, por lo que es necesario contar con una solución estándar de MC, siendo que un solo mililitro de esta tiene un costo aproximado de $10,000 MXN (Merck, 2024). Además, en caso de que las pruebas resulten positivas, es necesario realizar una determinación cuantitativa ya sea por extracción en fase sólida (SPE) y cromatografía líquida/espectrometría de masas en tándem (LC/MS/MS) o mediante SPE y cromatografía de alto rendimiento (HPLC) con detección ultravioleta, por lo que en ambos casos se necesitan equipos especializados de alto costo (NORMA Oficial Mexicana NOM-127-SSA1-2021, Agua para uso y consumo humano. Límites permisibles de la calidad del agua., 2022).
+
+Cabe resaltar que estos métodos son necesarios para analizar agua de uso y consumo humano, por lo que estos análisis se deberían de realizar, por ejemplo, en el agua proveniente de Chapala que se potabiliza para su uso residencial a lo largo de toda la Área Metropolitana de Guadalajara. Sin embargo, en México aún no existe una normativa para las MC en el agua de uso recreativo, por lo que si se quiere monitorear este parámetro, es posible seguir las mismas metodologías propuestas para el agua de consumo humano o se pueden buscar métodos alternativos como el monitoreo visual con microscopía o mediante ensayos de inhibición de la proteína fosfatasa que, a pesar de ser menos selectivos y más propensos a errores humanos, son métodos mucho más accesibles (Organización Mundial de la Salud, 2018).
+
+METODOLOGÍA
+
+Muestreo
+
+El establecimiento de puntos de muestreo representativos y la adecuada toma de muestras son esenciales para llevar a cabo para obtener datos confiables.
+
+En primer lugar, considerando que el objetivo de estos análisis es monitorear la calidad del agua usada por las comunidades cercanas al lago, es ideal que los puntos de muestreo se encuentren cerca de estas. Además, es importante tomar nota de las coordenadas en la que se tomará la muestra para replicar el muestreo en el futuro. Asimismo, se recomienda priorizar sitios de muestreo que sean accesibles desde una superficie sólida y rocosa. El muestreo en lagos suele hacerse en sus desagües y es preferible tomar la muestra respetando el sentido de la corriente (Musselman, 2012).
+
+Una vez seleccionados los puntos de muestreo, se debe realizar la obtención de la muestra. Hay varios métodos para este propósito, uno de los descritos en la literatura consiste en concentrar la biomasa cianobacteriana mediante filtración utilizando redes para concentración de plancton (con mallas de 10–64 mm), también por micro-filtración utilizando filtros GF/C o por filtración por vacío usando filtros de papel GF/B (Pírez Schirmer, 2019). No obstante, si no se cuenta con equipos para concentrar la biomasa desde el muestreo, también es posible preservar las muestras en envases herméticos.
+
+Además, es importante resaltar que, sin importar la técnica seguida para el muestreo, es necesario seguir la NOM-230-SSA1-2002, la cual establece los procedimientos sanitarios necesarios para el muestreo de agua para uso y consumo humano en sistemas de abastecimiento públicos y privados (NORMA Oficial Mexicana NOM-230-SSA1-2002, Salud ambiental. Agua para uso y consumo humano, requisitos sanitarios que se deben cumplir en los sistemas de abastecimiento públicos y privados durante el manejo del agua. Procedimientos sanitarios para el muestreo., 2005).
+
+Cuantificación de cianobacterias
+
+Después del establecimiento de los puntos de muestreo, la toma de muestras y la extracción del analito de interés, es necesario cuantificar la cantidad de microcistinas que hay en el agua. Para este propósito existen muchos métodos de los cuales unos proporcionan datos cualitativos y otros más sofisticados proporcionan datos cuantitativos. Los métodos más utilizados para el monitoreo de floraciones son: identificación y conteo de cianobacterias toxigénicas (o determinación de clorofila como indicador de biomasa de fitoplancton), detección de genes que codifican la producción de toxinas, detección y cuantificación de toxinas individuales y bioensayos de toxicidad (Pírez Schirmer, 2019).
+
+Uno de los métodos para evitar efectos agudos negativos por la exposición de las personas en actividades recreativas, es la cuantificación de cianobacterias en un cuerpo de agua o la cuantificación de clorofila en el mismo sitio (Pírez Schirmer, 2019). Estos métodos indirectos ofrecen una valoración cualitativa, basada en valores propuestos por la OMS (Tabla 1). Los valores propuestos se basan en el supuesto que las cianobacterias productoras de MCs dominan la población de cianobacterias presentes y que el contenido promedio de MCs en Microcystis sp. es 0.2 pg/célula. Como se puede observar se estableció un límite fuera de riesgo en una muestra que tenga menos de 20,000 células/mL, lo que es igual a menos de 10 µg/L de clorofila para asegurar un nivel inferior a 10 µg/L de niveles estimados de Microcystis sp.
+
+Tabla 1. Valores establecidos por la OMS para relacionar cantidad de cianobacterias o clorofila con la cantidad de Microcystis:
+- Riesgo Bajo (Low): Cianobacterias < 20,000 células/mL; Clorofila a < 10 µg/L; Nivel estimado de microcistina < 10 µg/L
+- Riesgo Moderado: Cianobacterias 20,000–100,000 células/mL; Clorofila a 10–50 µg/L; Nivel estimado de microcistina 10–20 µg/L
+- Riesgo Alto: Cianobacterias >100,000–10,000,000 células/mL; Clorofila a 50–5,000 µg/L; Nivel estimado de microcistina 20–2,000 µg/L
+- Riesgo Muy Alto: Cianobacterias >10,000,000 células/mL; Clorofila a >5,000 µg/L; Nivel estimado de microcistina >2,000 µg/L
+
+Una vez que se haya utilizado algún método que nos ayude a comprobar la presencia de las microcistinas, es indispensable comenzar a realizar muestreos con mayor frecuencia y con mayor precisión que ayuden a establecer medidas de seguridad pertinente para las concentraciones que haya en el punto de muestreo.
+
+Cuantificación de microcistinas
+
+El inicio para la cuantificación más sofisticada de estas toxinas dependerá si solo se quieren cuantificar las microcistinas extracelulares (ya que no es necesario lisar la membrana celular) o si se quiere cuantificar las microcistinas presentes extra e intracelular, este último caso es el más común para la cuantificación. Un método utilizado para la obtención y concentración de microcistinas se describe en el trabajo realizado por Shoemaker et al. (2015) en donde de manera general se lisan las células en solución con metanol, luego pasa por filtraciones y un cartucho de extracción en fase sólida (SPE) como el cartucho Oasis HLB usado por Pérez-Vázquez et al. (2018).
+
+Finalmente, como expone Pérez-Vázquez et al. (2018), una vez que las muestras se encuentran concentradas, estas se cuantifican mediante un análisis de cromatografía líquida de alto rendimiento (HPLC).
+
+TRATAMIENTO DE MICROCISTINAS
+
+La manera más efectiva de erradicar la presencia de microcistinas en el lago de Chapala es erradicar sus causas, es decir, el crecimiento de floraciones algales y, por lo tanto, la eutrofización.
+
+En primer lugar, evitar la eutrofización es posible mediante el efectivo tratamiento del agua antes de que sea vertida al lago. Esto se puede lograr mediante la implementación de sistemas de tratamiento de agua como plantas de tratamiento y humedales. Por este motivo, regularizar la calidad de toda agua que entra al Lago de Chapala es un proceso muy necesario pero complejo, el cual requiere de mucho tiempo.
+
+Por otro lado, para disminuir el crecimiento de las floraciones de cianobacterias, se ha encontrado que un tratamiento con extractos de las plantas Ranunculus aquatilis y Nasturtium officinale puede inhibir el crecimiento de Microcystis aeruginosa hasta en 100% (Tazart et al., 2018). Para lograr implementar un tratamiento de este estilo a una escala tan grande como el lago de Chapala, una posibilidad es elaborar estructuras parecidas a las chinampas que contengan estas plantas. Estas estructuras se colocarían en sitios donde suele haber floraciones algales para intentar inhibir su crecimiento y al mismo tiempo evitar la propagación de las plantas en el lago. Otra opción es encapsular los extractos de estas plantas en biofiltros que se coloquen en las principales entradas de agua residual tratada al lago.
+
+Otra forma registrada para reducir el nivel de cianobacterias es por medio de microorganismos como bacterias, algas, hongos y protozoos (Demeke, 2016). Un ejemplo de esto es el trabajo realizado por Ahn et al. (2003) en donde se logró inhibir selectivamente el crecimiento de dos cianobacterias (Microcystis aeruginosa y Anabaena affinis) hasta un 100%, mediante un biosurfactante producido por Bacillus subtilis C1. Los biosurfactantes tienen muchas propiedades como permitir interacciones entre dos soluciones inmiscibles, propiedades antibióticas, antitumorales y antivirales, además de ser más ecológicos que los surfactantes químicos. Los biosurfactantes podrían ser extraídos de fermentaciones controladas a partir de medios de cultivo baratos, para asegurar una inhibición selectiva de cianobacterias peligrosas para el ecosistema y la salud humana.
+
+Otra propuesta interesante para controlar a las cianobacterias es aplicar un método sustentable donde se asegure la floculación (precipitación) de las cianobacterias, para su futura recolección y post-tratamiento, en donde si se pueda inhibir o matar a la cianobacteria sin que libere las microcistinas al cuerpo de agua. Esto se puede lograr iniciando el proceso con biofloculantes, producidos a través de bacterias, en donde liberan EPS, un tipo de biofilm que ayuda a la formación de agregados entre bacteria y algas, facilitando su recolección o precipitación de las cianobacterias. También se puede hacer por medio de hongos, en donde las hifas ayudan a formar agregados hongo-alga para facilitar la precipitación y así evitar la liberación de microcistinas por lisis celular. En el trabajo realizado por Sun et al. (2018) se dan ejemplos de varios microorganismos con capacidades floculantes e incluso menciona que después de la floculación se puede recolectar a las floraciones de cianobacterias para aplicar un tratamiento inhibitorio fuera del cuerpo de agua.
+
+CONCLUSIONES
+
+En este informe se reportan brevemente diversas metodologías que podrían ser implementadas para un futuro monitoreo y tratamiento de las microcistinas en el lago de Chapala. No obstante, es necesario verificar la factibilidad y viabilidad de las propuestas de tratamiento a nivel laboratorio y/o piloto antes de llevarlas al entorno real.
+
+REFERENCIAS
+
+Demeke, A. (2016). Cyanobacteria blooms and biological control methods. Int. J. Fauna Boil. Stud, 3, 32-38.
+
+García-Velasco, J., & Orozco-Medina, M. (2023, junio). Microcistinas en agua del Lago de Chapala, implicaciones en la salud de la población ribereña de Agua Caliente, Jalisco. Calidad del agua, Encuentro universitario de investigación.
+
+Merck. (2024). Microcystin-LR 10ug/mL methanol, analytical standard 101043-37-2. http://www.sigmaaldrich.com/
+
+Musselman, R. (2012). Sampling procedure for lake or stream surface water chemistry (RMRS-RN-49). U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. https://doi.org/10.2737/RMRS-RN-49
+
+NORMA Oficial Mexicana NOM-127-SSA1-2021, Agua para uso y consumo humano. Límites permisibles de la calidad del agua. (2022). https://www.dof.gob.mx/nota_detalle.php?codigo=5650705&fecha=02/05/2022#gsc.tab=0
+
+NORMA Oficial Mexicana NOM-230-SSA1-2002, Salud ambiental. Agua para uso y consumo humano, requisitos sanitarios que se deben cumplir en los sistemas de abastecimiento públicos y privados durante el manejo del agua. Procedimientos sanitarios para el muestreo. (2005). https://dof.gob.mx/nota_detalle.php?codigo=2081772&fecha=12/07/2005#gsc.tab=0
+
+Organización Mundial de la Salud (Ed.). (2003). Guidelines for safe recreational water environments. World Health Organization.
+
+Organización Mundial de la Salud. (2011). Guías para la calidad del agua de consumo humano. https://iris.who.int/bitstream/handle/10665/272403/9789243549958-spa.pdf?ua=1
+
+Organización Mundial de la Salud. (2018). Guías para la calidad del agua de consumo humano: Cuarta edición que incorpora la primera adenda (4a ed + 1a adenda). Organización Mundial de la Salud. https://iris.who.int/handle/10665/272403
+
+Pérez-Vázquez, M., García-Velasco, J., Orozco-Medina, M., & Contreras-Rodríguez, S. H. (2018, junio). Determinación de microcistinas LR y RR en agua del Lago de Chapala y su potencial efecto a la salud. Revista de Ciencias de la Salud, 5(15), 12-20.
+
+Pírez Schirmer, V. M. (2019). Desarrollo y validación de métodos sencillos y rápidos para cianotoxinas en el monitoreo ambiental. https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/32153
+
+Schirrmeister, B. E., Gugger, M., & Donoghue, P. C. J. (2015). Cyanobacteria and the Great Oxidation Event: Evidence from genes and fossils. Palaeontology, 58(5), 769-785. https://doi.org/10.1111/pala.12178
+
+Shoemaker, J., Tettenhorst, D., & Delacruz, A. (2015). Method 544. Determination Of Microcystins And Nodularin In Drinking Water By Solid Phase Extraction And Liquid Chromatography/Tandem Mass Spectrometry (LC/MS/MS). Washington, DC: U.S. Environmental Protection Agency.
+
+Sun, R., Sun, P., Zhang, J., Esquivel-Elizondo, S., & Wu, Y. (2018). Microorganisms-based methods for harmful algal blooms control: A review. Bioresource Technology, 248, 12-20. https://doi.org/10.1016/j.biortech.2017.07.175
+
+Tazart, Z., Douma, M., Tebaa, L., & Loudiki, M. (2018). Use of macrophytes allelopathy in the biocontrol of harmful Microcystis aeruginosa blooms. Water Supply, 19(1), 245-253. https://doi.org/10.2166/ws.2018.072

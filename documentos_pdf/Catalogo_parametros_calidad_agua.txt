@@ -1,0 +1,590 @@
+CATÁLOGO DE PARÁMETROS PARA EL ANÁLISIS DE LA CALIDAD DEL AGUA
+
+PAP TerritoRios: Saberes por la recuperación ecológica
+Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)
+Primavera 2024
+Autora: Vero Padilla
+
+INTRODUCCIÓN
+
+Este catálogo de parámetros fue trabajado por un grupo de estudiantes de ITESO en el PAP TerritoRios con el propósito de facilitar el entendimiento de cada uno de los parámetros de calidad del agua. Se explica de forma simple lo que es cada parámetro, cómo se puede manifestar en agua, los efectos en la salud y medio ambiente, además se integra una definición técnica.
+
+Así mismo, se define el Límite Máximo Permisible (LMP) que se tiene establecido por las Normas Oficiales Mexicanas (NOM), haciendo una comparación con normas internacionales como la Organización Mundial de la Salud (OMS), la Agencia de Protección al Ambiente de Estados Unidos (EPA) y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).
+
+LUGARES DE MUESTREO
+
+A continuación se describen los tipos de lugares donde se puede tomar una muestra de agua para su análisis:
+
+Purificadora: Sistema que filtra el agua de una fuente natural para hacerla segura para el consumo humano.
+
+Humedal: Sistema construido que remueve contaminantes del agua utilizando plantas, microorganismos y un medio poroso.
+
+Filtro casero: Sistemas simples que ayudan a la filtración y purificación de agua usando arena.
+
+Pozo de agua: Lugar de donde se recolecta agua subterránea para su uso humano.
+
+Descarga de agua: Lugar a donde llegan las aguas residuales de una comunidad sin un tratamiento de limpieza.
+
+===============================
+SECCIÓN 1: METALES
+===============================
+
+Es esta sección se describen algunos parámetros de metales, debido a su importancia en los análisis de calidad del agua por alta toxicidad a bajas concentraciones. Muchos de estos metales se encuentran en la naturaleza en pequeñas cantidades, pero las industrias y otras actividades humanas hacen que se concentren de manera excesiva en la naturaleza, causando daños al humano y a los ecosistemas. Los efectos nocivos dependerán del tipo de metal, la cantidad y la constancia a la que se exponen a estos contaminantes.
+
+Los metales incluidos en esta sección son: Arsénico, Cadmio, Cobre, Cromo, Hierro, Manganeso, Mercurio, Niquel y Plomo.
+
+--- ARSÉNICO ---
+
+Descripción:
+El arsénico es un cristal que constituye un 0.00005% de la corteza, la concentración en suelos promedio alrededor del mundo es de 6 mg/kg, aunque algunos suelos o rocas pueden alcanzar 40 mg/kg, es ahí donde proviene su mayor liberación de fuentes naturales. El arsénico se puede encontrar naturalmente en la corteza terrestre y está distribuido en el agua, suelo y aire. En varios países, el arsénico se puede encontrar en altas concentraciones en las aguas subterráneas (OMS, 2022).
+
+¿Cómo se manifiesta?:
+El arsénico se encuentra en cuerpos de agua, se puede mezclar, sin embargo, no se degrada. Hay compuestos orgánicos de arsénico que sí se pueden eliminar, aunque puede resultar un problema si están unidos a otros químicos, por lo que puede dañar los cultivos y a los organismos. En general, las formas no naturales del arsénico, las que descargan las industrias, son más tóxicas que las que comúnmente se encuentran en el medio ambiente.
+
+Definición técnica:
+De acuerdo con la OMS, el arsénico es un componente natural en la corteza terrestre y está distribuido en el agua, tierra y aire, y en su forma natural es menos tóxico que cuando el arsénico no es natural (OMS, 2022).
+
+Efectos en la salud:
+En los lugares donde sus concentraciones son altas se han reportado daños severos para la salud humana, como problemas respiratorios, vómito y nauseas, daños en la sangre, sistema nervioso central, cáncer de piel, pulmones, vejiga y riñón (Sharma, 2014). Una ingesta alta inicia con daños gastrointestinales, daños en el sistema nervioso central y cardiovascular, por último, la muerte (Madhav et al., 2020). En los supervivientes, puede producirse deterioro de los huesos, hígado, sistema nervioso y la piel.
+
+Efectos en el medio ambiente:
+Los compuestos de arsénico pueden provocar efectos de corto a largo plazo a plantas y animales. Por ejemplo, para las especies acuáticas, los efectos llegan a ser peligrosos desde microgramos hasta miligramos para cada litro. La naturaleza de los efectos depende de la especie y el tiempo de exposición. Incluso si el arsénico se encuentra en pequeñas cantidades, aún se acumula en los organismos que son consumidos por otros organismos, provocando un aumento en su concentración (GreenFacts, 2023).
+
+Límites máximos permisibles de Arsénico: Para uso y consumo humano, la EPA establece 0.1 mg/L, la OMS establece 0.1 mg/L y la NOM establece 0.025 mg/L. Para venta de agua y hielo, la EPA establece 0.1 mg/L, la OMS establece 0.1 mg/L y la NOM establece 0.025 mg/L. Para vida acuática, la EPA establece 0.34 mg/L y la NOM establece 0.4 mg/L (la OMS no establece límite). Para riego, la OMS establece 0.1 mg/L y la NOM establece 0.2 mg/L (la EPA no establece límite). Normas de referencia: uso y consumo humano NOM-127-SSA1-2021; venta de agua y hielo envasado NOM-201-SSA1-2015; vida acuática (descarga a ríos) y riego NOM-001-SEMARNAT-2021.
+
+--- CADMIO ---
+
+Descripción:
+Muy usado como recubrimiento en otros materiales para evitar que se oxiden, en plásticos, soldadura, baterías, televisión, cerámica, fotografía, insecticidas, etc. En general es un metal muy común en nuestro día a día (Sharma, 2014). Este elemento se encuentra en la naturaleza asociado con otros minerales, aunque en cantidades pequeñas (NIH, 2015).
+
+¿Cómo se manifiesta?:
+La contaminación de cadmio en el agua se puede dar por su liberación por las industrias, impurezas de este elemento en tuberías, calentadores, enfriadores, etc. Lugares con agua blanda (sin tantos minerales) de bajo pH suelen estar más expuestos a contaminación por cadmio al ser más corrosivas. El cadmio tiene varias formas químicas; dentro de estas diferencias hay formas del cadmio que se pueden movilizar en el agua (forma soluble) y otras que se van al fondo del cuerpo de agua (sedimentación) (ATSDR, 2021).
+
+Definición técnica:
+El cadmio es un metal con un estado de oxidación común de +2. Es químicamente similar al zinc y se encuentra de forma natural con el zinc y el plomo en minerales de sulfuro. Su forma es sólida blanca y suave. Los fertilizantes producidos a partir de minerales de fosfato constituyen una fuente importante de contaminación difusa. La solubilidad del cadmio en agua está influenciada en gran medida por su acidez; en aguas contaminadas se suele encontrar en sedimentos y partículas suspendidas, en aguas no contaminadas suele tener concentraciones de 0.001 mg/L (OMS, 2004).
+
+Efectos en la salud:
+La exposición a este metal causa disfunción renal, degeneración de los huesos, daños en la sangre y riñones e incluso puede desarrollar cáncer de pulmones (Sharma, 2014). Esto lo convierte en uno de los elementos más tóxicos, al ser dañino aún a concentraciones muy bajas; este elemento no tiene ninguna función en el metabolismo de los organismos. El cadmio se acumula más en el hígado y aún más en los riñones (Genchi et al., 2020). El primer caso de intoxicación masiva por este metal fue en 1912 en Japón, donde se intoxicaron muchas personas cercanas a una mina, desarrollando debilitamiento de hueso, múltiples fracturas, alteraciones combinadas de osteoporosis y osteomalacia, daño renal, enfisema y anemia e incluso la muerte.
+
+Efectos en el medio ambiente:
+Este metal tiene la capacidad de bioacumularse (quedarse dentro del organismo) y biomagnificarse (pasar de plantas o animales a nosotros cuando los consumimos). Se han encontrado concentraciones altas en crustáceos, moluscos, ostras, cangrejos, entre otros animales marinos; también se han encontrado concentraciones altas en plantas que se encuentran en suelos contaminados, como arroz y trigo, verduras de hojas verdes, patatas, zanahoria y apio (Genchi et al., 2020). Se han informado deformidades esqueléticas en peces expuestos a bajos niveles de cadmio; afecta a varios sistemas importantes en peces (neuronales y metabólicos), lo que causa la muerte y retraso en la eclosión de los huevos (Wright et al., 1994).
+
+Límites máximos permisibles de Cadmio: Para uso y consumo humano, la EPA establece 0.005 mg/L, la OMS establece 0.005 mg/L y la NOM establece 0.003 mg/L. Para venta de agua y hielo, la EPA establece 0.005 mg/L, la OMS establece 0.005 mg/L y la NOM establece 0.003 mg/L. Para vida acuática, la EPA establece 0.010 mg/L, la OMS establece 0.003 mg/L y la NOM establece 0.400 mg/L. Para riego, la EPA establece 0.010 mg/L, la OMS establece 0.003 mg/L y la NOM establece 0.200 mg/L.
+
+--- COBRE ---
+
+Descripción:
+Este elemento ha sido utilizado desde tiempos antiguos, usado para utensilios de latón y bronce; hoy en día es muy usado como material conductor, también se adjudica mucho su liberación a agua potable debido a tuberías, incluso muchos pesticidas contienen cobre en su forma orgánica e inorgánica (Madhav et al., 2020). Estudios en distintos cuerpos de agua de Europa, USA y Canadá muestran niveles de cobre en agua potable de 0.005 a 30 mg/L, lo cual es preocupante a partir de 1 mg/L (OMS, 2004).
+
+¿Cómo se manifiesta?:
+El cobre disuelto a veces puede impartir un color azul claro o azul verdoso y un sabor metálico y amargo desagradable en el agua potable. También se presenta tinción de azul a verde en lavabos de porcelana y accesorios de plomería cuando hay cobre disuelto en agua de grifo; la fuente principal de contaminación es la corrosión de tuberías (OMS, 2004).
+
+Definición técnica:
+El cobre es un metal de transición que es estable en su estado metálico y forma cationes monovalentes (cuprosos) y divalentes (cúpricos). El cobre metálico es maleable, dúctil y buen conductor térmico y eléctrico, tiene muchos usos comerciales debido a su versatilidad, como cables eléctricos, pipas, monedas, utensilios de cocina, fungicidas, insecticidas, electroplantación, etc. Las formas solubles de cobre con sales suelen ser más tóxicas que su forma en compuestos insolubles (OMS, 2004).
+
+Efectos en la salud:
+Este metal en pequeñas cantidades es necesario para muchas reacciones biológicas, pero a concentraciones altas puede causar daños como irritación en boca, ojos y nariz, posiblemente cause diarrea y nauseas. La exposición continua a este metal puede causar daños neurológicos, en hígado, cáncer de pulmón (aunque no hay datos suficientes que lo comprueben) e incluso la muerte (Sharma, 2014). Los casos de intoxicación aguda presentan síntomas como dolor abdominal o de cabeza; en concentraciones más altas comienzan dolores estomacales y nauseas. Para intoxicaciones crónicas (de 30-60 mg por día durante 1 a 2 años) se dan enfermedades hepáticas, lo cual puede producir anemia. Es importante recordar que su consumo en pequeñas cantidades y sin mucha frecuencia no es malo.
+
+Efectos en el medio ambiente:
+En animales también se ha demostrado que la ingestión de grandes cantidades de cobre en los peces puede provocar enfermedades hepáticas y renales. Las dosis repetidas de 1.5 a 7.5 mg de cobre por kg de peso corporal por día se asocian con daño hepático progresivo, anemia y en última instancia la muerte. En un experimento con ratones donde se administró 42.5 mg de cobre por kg por día en el agua potable, se observó una reducción del 12.8% en la esperanza de vida máxima (Water, 2000). Cabe resaltar que cada especie reacciona diferente a las exposiciones a este metal.
+
+Límites máximos permisibles de Cobre: Para uso y consumo humano, la EPA establece 1.3 mg/L, la OMS establece 1.5 mg/L y la NOM establece 2 mg/L. Para venta de agua y hielo, la EPA establece 1.3 mg/L, la OMS establece 1.5 mg/L y la NOM establece 1 mg/L. Para vida acuática, la NOM establece 6 mg/L (la EPA y la OMS no establecen límite). Para riego, la EPA establece 0.2 mg/L y la NOM establece 6 mg/L (la OMS no establece límite).
+
+--- CROMO ---
+
+Descripción:
+Este metal puede provenir de fuentes naturales como erupciones volcánicas, desgaste de rocas, suelo, sedimentos, etc. Mientras que su origen antropogénico (proveniente de los humanos) puede darse de la quema de combustibles fósiles, producción de plásticos, papel, gomas, recubrimiento de metales y uso excesivo en producción de cueros y curtidos (Sharma, 2014).
+
+¿Cómo se manifiesta?:
+Este elemento está ampliamente distribuido en la corteza terrestre; es un elemento que tiene muchas formas, cada una con propiedades similares, pero con una capacidad de reacción distinta. Hay dos formas en las que este elemento se suele encontrar en la naturaleza: la primera se le conoce como cromo tres y la segunda como cromo seis, siendo esta última forma la más reactiva y peligrosa de todas. Este elemento no presenta indicios de manifestación en sabor, olor, apariencia o color a niveles normales (OMS, 2020).
+
+Definición técnica:
+Este elemento ampliamente distribuido en la corteza terrestre se encuentra en estado III usualmente y en estado VI (este último siendo el más tóxico); más del 70% del cromo que se libera al ambiente proviene de actividades antropogénicas. El estado hexavalente es fácilmente reducido a su estado de oxidación trivalente, incluso no reporta efectos de bioacumulación ya que se reduce a su forma menos tóxica (OMS, 2020).
+
+Efectos en la salud:
+Exposición a altas concentraciones de este metal puede generar daños en riñones e hígado, afectaciones al sistema nervioso central, úlceras en la piel. El cromo VI, su variante más tóxica (Sharma, 2014), es un elemento muy carcinógeno (potenciador de cáncer) (Madhav et al., 2020); se reporta que su inhalación causa cáncer de pulmón, también se reporta aumento en cáncer gástrico. En cambio, el cromo III es un suplemento nutricional vital para animales y humanos y tiene una función importante en el metabolismo de la glucosa (OMS, 2020).
+
+Efectos en el medio ambiente:
+Respecto a los daños al ecosistema se ha reportado deficiencia en el sistema inmune de peces; se deposita en las branquias del pez, siendo el cromo VI su variante más tóxica (Sharma, 2014) y un elemento muy carcinógeno (Madhav et al., 2020). Entra en el cuerpo del pez y ejerce efectos letales sobre el hígado y los riñones. En plantas se reporta que se toma este metal del suelo y se acumula en la parte aérea; respecto a daños en plantas, sus efectos adversos son problemas en la germinación de semillas, la reducción de la tasa fotosintética, la inhibición de actividades biológicas esenciales y, en última instancia, la absorción de nutrientes, obstaculizando el crecimiento y desarrollo de las plantas. Este metal reporta bioacumulación (retención en organismos) en la mayoría de vida acuática (Prasad et al., 2021).
+
+Límites máximos permisibles de Cromo: Para uso y consumo humano, la EPA establece 0.05 mg/L, la OMS establece 0.05 mg/L y la NOM establece 0.05 mg/L. Para venta de agua y hielo, la EPA establece 0.05 mg/L, la OMS establece 0.05 mg/L y la NOM establece 0.05 mg/L. Para vida acuática, la NOM establece 1.5 mg/L (la EPA y la OMS no establecen límite). Para riego, la EPA establece 0.1 mg/L, la OMS establece 0.1 mg/L y la NOM establece 1 mg/L.
+
+--- HIERRO ---
+
+Descripción:
+Este metal se encuentra en el suelo y minerales en forma de óxido ferroso y sulfuro de hierro. Las altas concentraciones de este metal en el agua se dan por descargas de residuos municipales y por la meteorización de las rocas. El color del agua se vuelve turbio y luego marrón debido a la precipitación; los minerales que contienen hierro se solubilizan conforme las condiciones reductoras aumentan, como en un ambiente sin oxígeno (Madhav et al., 2020).
+
+¿Cómo se manifiesta?:
+El hierro es un metal extremadamente duro y denso, maleable, de color gris plateado, y presenta propiedades magnéticas. La elevada concentración de hierro en el agua provoca problemas de sabor, coloración y turbidez. El hierro se convierte en óxido cuando es expuesto al agua y al oxígeno; este óxido es de color rojizo y mancha los accesorios de plomería como tuberías, y puede llegar a manchar la ropa al lavarla con agua de estas tuberías (Propiedades del hierro (Fe), 2022).
+
+Definición técnica:
+El hierro es un elemento químico con 26 protones en su núcleo atómico. Se representa con el símbolo Fe y se encuentra en el grupo 8 y periodo 4 en la tabla periódica, por lo que pertenece al grupo de metales de transición. En la Tierra, a temperatura y presión estándar se encuentra en estado sólido formando parte de numerosos minerales, pero raramente en estado puro (Propiedades del hierro (Fe), 2022).
+
+Efectos en la salud:
+El hierro es un mineral necesario para el cuerpo, por lo que en concentraciones bajas no presenta problemas a la salud. La ingestión indebida de hierro puede derivar en una intoxicación crónica. Los síntomas de la intoxicación crónica por hierro pueden incluir fatiga, debilidad, dolor abdominal, pérdida de peso, artritis, problemas cardíacos, daño hepático, diabetes y cambios en la pigmentación de la orina (Madhav et al., 2020).
+
+Efectos en el medio ambiente:
+El exceso de hierro puede contaminar cuerpos de agua, ya sea por la escorrentía de suelos ricos en hierro o por la descarga de aguas residuales industriales o domésticas que contienen altas concentraciones de hierro. La liberación de hierro puede acidificar el suelo y el agua, lo que afecta negativamente a la vida acuática y a las plantas sensibles a los cambios en el pH. Concentraciones elevadas de hierro en el agua pueden ser tóxicas para organismos acuáticos, como peces e invertebrados, afectando negativamente a los ecosistemas acuáticos (Madhav et al., 2020).
+
+Límites máximos permisibles de Hierro: Para uso y consumo humano, la EPA establece 0.03 mg/L, la OMS establece 0.30 mg/L y la NOM establece 0.30 mg/L. Para venta de agua y hielo, la EPA establece 0.03 mg/L y la OMS establece 0.30 mg/L (la NOM no establece límite). Para vida acuática, la EPA establece 1 mg/L (la OMS y la NOM no establecen límite). Para riego, la EPA establece 5 mg/L (la OMS y la NOM no establecen límite).
+
+--- MANGANESO ---
+
+Descripción:
+El manganeso es una sustancia natural que se encuentra en rocas y está relacionado con el hierro (Fe). El manganeso es un elemento necesario para mantener buena salud y ocurre naturalmente en la mayoría de los alimentos. Sin embargo, también tiene aplicación industrial (Resumen de Salud Pública, 2021a).
+
+¿Cómo se manifiesta?:
+Cantidades adicionales de manganeso se pueden encontrar en el aire, el suelo y el agua como consecuencia de la liberación de su uso industrial. El manganeso se usa en la producción de acero, fuegos artificiales, baterías secas, abonos y cosméticos. El manganeso puede causar que el agua potable cambie de color y tenga un sabor desagradable; además, puede dejar manchas en la ropa lavada y generar taponamientos en tuberías (Resumen de Salud Pública, 2021a).
+
+Definición técnica:
+El manganeso es un elemento químico esencial para la vida, representado por el símbolo Mn y el número atómico 25. Se encuentra en la corteza terrestre como óxido de manganeso y en diversos minerales. Es un metal de transición de color gris plateado, duro y frágil a temperatura ambiente (Manganeso - OPS/OMS, 2020).
+
+Efectos en la salud:
+Los estudios en niños sugieren que la exposición a niveles extremadamente altos de manganeso puede alterar el desarrollo del cerebro, lo que puede producir alteraciones del comportamiento y en la capacidad para aprender y memorizar. Una concentración elevada de este elemento puede provocar daños en el sistema nervioso central (Madhav et al., 2020).
+
+Efectos en el medio ambiente:
+Concentraciones altas en el agua pueden afectar a la vida acuática, acumulándose en su cuerpo y afectando diferentes órganos. En concentraciones muy elevadas, el manganeso puede ser tóxico para los peces y otros organismos acuáticos, y puede causar daños en las branquias, el hígado, los riñones y el sistema nervioso (National Center of Biotechnology, 2017).
+
+Límites máximos permisibles de Manganeso: Para uso y consumo humano, la EPA establece 0.05 mg/L, la OMS establece 0.05 mg/L y la NOM establece 0.15 mg/L. Para venta de agua y hielo, la EPA establece 0.05 mg/L, la OMS establece 0.05 mg/L y la NOM establece 0.4 mg/L. No hay límites establecidos por EPA, OMS ni NOM para vida acuática ni riego en este parámetro.
+
+--- MERCURIO ---
+
+Descripción:
+El mercurio metálico, también conocido como mercurio elemental, es un elemento natural. A temperatura ambiente es un líquido pesado, brillante, blanco-plateado y sin olor que por lo general forma esferas y se puede evaporar al aire. El mercurio se encuentra de forma natural principalmente en forma de minerales de sulfuro; estos minerales se encuentran generalmente en depósitos geológicos cerca de zonas volcánicas (Mercurio (azogue) metálico (Hg), ATSDR, 2022).
+
+¿Cómo se manifiesta?:
+Las fuentes naturales del mercurio son erupciones volcánicas, desgaste de rocas y suelo. Mientras que el mercurio liberado en el medio ambiente como resultado de actividades humanas proviene de industrias, minería, lámparas de vapor, termómetros, barómetros y aparatos para determinar la presión sanguínea.
+
+Definición técnica:
+Para la OMS, el mercurio es uno de los diez productos o grupos de productos químicos que plantean especiales problemas de salud pública. El mercurio existe en diversas formas: elemental (o metálico); inorgánico (por ejemplo, cloruro mercúrico); y orgánico (por ejemplo, metilmercurio y etilmercurio), cada uno con diferentes efectos tóxicos.
+
+Efectos en la salud:
+Con la contaminación de mercurio en el agua y por consecuente en los peces, se ocasiona la intoxicación de los consumidores de los peces con este compuesto neurotóxico, responsable del daño microtubular y de la acumulación de moléculas neurotóxicas como la serotonina, el aspartato y el glutamato. Estas moléculas son mensajeros químicos en el cerebro; son importantes, pero demasiadas pueden causar problemas, por ejemplo, demasiada serotonina puede causar ansiedad o depresión, y demasiado glutamato o aspartato puede dañar las células cerebrales. Más específicamente, el mercurio puede causar estrés fisiológico, aborto, pérdida de fuerza, daños al sistema nervioso central, toxicidad en el cerebro, ceguera y daños en riñón.
+
+Efectos en el medio ambiente:
+Una vez en el ambiente, el mercurio elemental reacciona con ciertas bacterias y se vuelve una molécula que se bioacumula en peces, moluscos y crustáceos (se entiende por bioacumulación una concentración de la sustancia más elevada en el organismo que en su entorno). Este derivado del mercurio pasa también por un proceso de bioamplificación, es decir, que las concentraciones van aumentando; por ejemplo, los grandes peces depredadores tienen más probabilidades de presentar niveles elevados de mercurio por haber devorado a muchos peces pequeños que a su vez lo habrán ingerido al alimentarse de plancton. La exposición al mercurio puede dañar el sistema nervioso, afectar el crecimiento y la reproducción, y causar mortalidades en estas especies.
+
+Límites máximos permisibles de Mercurio: Para uso y consumo humano, la EPA establece 0.000002 mg/L, la OMS establece 0.001 mg/L y la NOM establece 0.006 mg/L. Para venta de agua y hielo, la EPA establece 0.000002 mg/L, la OMS establece 0.001 mg/L y la NOM establece 0.001 mg/L. Para vida acuática, la EPA establece 0.0014 mg/L y la NOM establece 0.02 mg/L (la OMS no establece límite). Para riego, la EPA establece 0.002 mg/L, la OMS establece 0.001 mg/L y la NOM establece 0.01 mg/L.
+
+--- NIQUEL ---
+
+Descripción:
+El níquel puro es un metal duro, blanco-plateado, presente de forma natural en la corteza terrestre, ocupando el lugar número 24 en la lista de elementos más comunes. Además, el níquel tiene propiedades que lo hacen muy deseable en la industria de fabricación de niquelados (Resumen de Salud Pública, 2021b).
+
+¿Cómo se manifiesta?:
+El níquel existe en compuestos solubles en agua llamados niquelados. Estos compuestos de níquel se usan para colorear cerámicas, fabricar baterías, y más. El níquel y sus compuestos no tienen ni olor ni sabor característico; sin embargo, soluciones con alta concentración en agua presentan color verde azulado (Resumen de Salud Pública, 2021b).
+
+Definición técnica:
+El níquel es un elemento químico con el símbolo Ni y el número atómico 28. Es un metal blanco plateado, duro, maleable y dúctil. El níquel se encuentra en la corteza terrestre en forma de minerales como la pentlandita, la millerita y la nicquelina. Es el 24º elemento más abundante en la corteza terrestre (Níquel - OPS/OMS, 2020).
+
+Efectos en la salud:
+A grandes concentraciones y exposiciones largas puede causar alergias en la piel, daños en las células, pérdida de peso, daño en hígado y corazón e incluso cáncer (Sharma, 2014).
+
+Efectos en el medio ambiente:
+Su forma soluble en el agua es la que causa problemas de contaminación. El níquel en el agua puede ser tóxico para los peces, las plantas acuáticas y otros organismos. Los peces expuestos a níquel pueden mostrar comportamientos erráticos, como natación desorientada o pérdida de equilibrio. En casos extremos, puede provocar la muerte de los organismos acuáticos; además puede ralentizar el crecimiento de peces y afectar su reproducción, reduciendo la fecundidad y la viabilidad de los huevos (Sharma, 2014).
+
+Límites máximos permisibles de Níquel: Para uso y consumo humano, la EPA establece 0.07 mg/L, la OMS establece 0.07 mg/L y la NOM establece 0.07 mg/L. Para venta de agua y hielo, la EPA establece 0.07 mg/L, la OMS establece 0.07 mg/L y la NOM establece 0.02 mg/L. Para vida acuática, la EPA establece 0.9 mg/L, la OMS establece 0.9 mg/L y la NOM establece 4 mg/L. Para riego, la OMS establece 0.2 mg/L y la NOM establece 4 mg/L (la EPA no establece límite).
+
+--- PLOMO ---
+
+Descripción:
+El plomo es un metal pesado, de color gris-azulado, que ocurre naturalmente en la corteza terrestre. Sin embargo, raramente se encuentra en la naturaleza en la forma de metal; generalmente se encuentra combinado con otros dos o más elementos formando compuestos de plomo. El plomo en forma de mineral es relativamente insoluble en agua y menos bioaccesible, lo que significa que es menos probable que cause daño; cuando el plomo se combina con otros elementos y forma compuestos más solubles, puede ser más absorbido por los organismos y, por lo tanto, más peligroso (Resumen de Salud Pública, 2021c).
+
+¿Cómo se manifiesta?:
+De manera natural, este metal se libera de rocas y sedimentos, debido a procesos naturales como la lluvia y el viento que erosionan las rocas con el tiempo. Una forma muy preocupante es cuando se libera en forma de gas, depositándose en cultivos. Los productos comerciales como las baterías de plomo, el material de construcción, la cerámica y los tintes, las pinturas, la cristalería y la gasolina son la principal fuente de plomo en el medio ambiente (Madhav et al., 2020). El plomo en el agua no suele tener sabor, olor o color distintivo que lo haga fácilmente detectable por los sentidos humanos.
+
+Definición técnica:
+El plomo es un metal tóxico cuyo uso generalizado ha causado contaminación ambiental y problemas de salud en muchas partes del mundo. Es una sustancia tóxica acumulativa que afecta a múltiples sistemas corporales, incluidos los sistemas cardiovasculares y neurológicos, hematológicos, del aparato digestivo, y renales (Plomo - OPS/OMS, 2020).
+
+Efectos en la salud:
+Es extremadamente tóxico; incluso un consumo continuo de pequeñas concentraciones puede propiciar daños. Los daños agudos se pueden definir como golpes de hambre, dolor de cabeza, hipertensión, dolor abdominal, disfunción renal. Mientras que los daños crónicos pueden ser retraso, defectos congénitos (presentes en un bebé), locura, autismo, alergias, dislexia, pérdida de peso, hiperactividad, parálisis, debilidad muscular, lesión cerebral, daño renal e incluso puede causar la muerte (Sharma, 2014).
+
+Efectos en el medio ambiente:
+La contaminación del suelo con plomo puede persistir durante décadas y afectar la calidad del suelo para el crecimiento de las plantas. El plomo puede ser tóxico para una variedad de organismos, desde microorganismos hasta plantas y animales. La exposición al plomo puede afectar la salud y el comportamiento de los organismos, reducir la biodiversidad en los ecosistemas y perturbar las cadenas alimentarias. En los ecosistemas contaminados, el plomo puede bioacumularse en los tejidos de los organismos a lo largo de la cadena alimentaria (Barcelona, s.f.).
+
+Límites máximos permisibles de Plomo: Para uso y consumo humano, la EPA establece 0 mg/L, la OMS establece 0.01 mg/L y la NOM establece 0.01 mg/L. Para venta de agua y hielo, la EPA establece 0 mg/L, la OMS establece 0.01 mg/L y la NOM establece 0.01 mg/L. Para vida acuática, la EPA establece 0.065 mg/L y la NOM establece 0.4 mg/L (la OMS no establece límite). Para riego, la EPA establece 5 mg/L y la NOM establece 1 mg/L (la OMS no establece límite).
+
+===============================
+SECCIÓN 2: MICROBIOLÓGICOS
+===============================
+
+En esta sección se describen los parámetros microbiológicos, los cuales se consideran una prioridad absoluta para el consumo y uso humano, así como para la vida acuática y el agua de riego. Dentro de los microorganismos que se eligieron para determinar la calidad del agua están: coliformes fecales, coliformes totales y Escherichia coli. Estos microorganismos están presentes en los intestinos, haciéndolos indicadores de contaminación por materia fecal, lo que representa un riesgo para la salud.
+
+--- COLIFORMES TOTALES ---
+
+Descripción:
+Las bacterias coliformes incluyen un gran grupo de muchos tipos de bacterias que se encuentran en todo el medio ambiente. También se pueden encontrar grandes cantidades de ciertos tipos de bacterias coliformes en los desechos de humanos y animales. La mayoría de los tipos de bacterias coliformes son inofensivas para los humanos, pero algunas pueden causar enfermedades leves y algunas, transmitidas por el agua, pueden provocar enfermedades graves (Bacterias Coliformes, s.f.).
+
+¿Cómo se manifiesta?:
+Su presencia indica que existe una vía de contaminación entre una fuente de bacterias (agua superficial, sistema séptico, desechos animales, etc.) y el suministro de agua. Las bacterias que causan enfermedades pueden utilizar esta vía para ingresar al suministro de agua. Son comunes en el suelo y el agua superficial e incluso pueden aparecer en la piel (Bacterias Coliformes, s.f.).
+
+Definición técnica:
+Grupo de bacterias aerobias y anaerobias facultativas, Gram negativo, no formadoras de esporas, fermentadoras de la lactosa a 35°C con producción de ácido y gas, que poseen actividad β-D-galactosidasa. La β-galactosidasa (Lactasa) es la enzima que degrada la lactosa, el azúcar que se encuentra en la leche.
+
+Efectos en la salud:
+Si bien la presencia de coliformes totales en sí misma no necesariamente indica contaminación fecal ni riesgos para la salud, su detección en fuentes de agua potable puede indicar la posible presencia de contaminantes fecales y la necesidad de una mayor investigación. Los efectos en la salud asociados con los coliformes totales dependen de la cepa específica presente y de otros factores relacionados con la exposición. Sin embargo, la presencia de coliformes totales en el agua potable puede indicar la posible contaminación con microorganismos patógenos más peligrosos, como Escherichia coli u otras bacterias, virus o parásitos que pueden causar enfermedades transmitidas por el agua, como gastroenteritis, diarrea, vómitos y enfermedades más graves en casos severos.
+
+Efectos en el medio ambiente:
+La presencia de coliformes totales en el agua puede indicar contaminación fecal, lo que puede afectar la calidad del agua y la salud de los ecosistemas acuáticos. El exceso de nutrientes en el agua, que puede provenir de la materia fecal y otros desechos orgánicos, puede provocar la proliferación de algas y la eutrofización, lo que agota el oxígeno y reduce la biodiversidad acuática. Los coliformes totales en el agua pueden ser perjudiciales para la vida silvestre acuática. La contaminación fecal puede contener patógenos y otros microorganismos que pueden enfermar o causar la muerte de peces, anfibios, aves y otros organismos acuáticos.
+
+Límites máximos permisibles de Coliformes Totales: Para uso y consumo humano, la EPA establece 0 mg/L, la OMS establece 0 mg/L y la NOM establece menos de 1.1 NMP/100mL. Para venta de agua y hielo, la EPA establece 0 mg/L, la OMS establece 0 mg/L y la NOM establece menos de 1.1 NMP/100mL. Para vida acuática, la EPA establece 0 mg/L (la OMS y la NOM no establecen límite). No hay límite establecido para riego.
+
+--- COLIFORMES FECALES ---
+
+Descripción:
+Las bacterias coliformes fecales son específicas del tracto intestinal de los animales de sangre caliente, incluidos los humanos, y por lo tanto se requiere una prueba más específica para detectar la contaminación por aguas residuales o desechos animales.
+
+¿Cómo se manifiesta?:
+Su presencia indica que existe una vía de contaminación entre una fuente de bacterias (agua superficial, sistema séptico, desechos animales, etc.) y el suministro de agua. Las bacterias que causan enfermedades pueden utilizar esta vía para ingresar al suministro de agua.
+
+Definición técnica:
+Son microorganismos que representan una indicación de la contaminación fecal del agua. Bacteria encontrada en los tractos intestinales de mamíferos. Su presencia en agua o fango es un indicador de contaminación y posible contaminación por patógenos.
+
+Efectos en la salud:
+La mayoría de las bacterias no causan enfermedad, pero si una persona se enferma, el sitio primario de infección es el tracto gastrointestinal y los síntomas pueden incluir náusea, vómito, diarrea y fiebre. Esta bacteria vive y crece de forma natural en el tracto gastrointestinal de los seres humanos y los animales, pero si entra en el lugar equivocado en el cuerpo, por ejemplo, los riñones o la sangre, puede causar enfermedad; la infección puede esparcirse en el cuerpo a la sangre, el hígado y el sistema nervioso.
+
+Efectos en el medio ambiente:
+La contaminación por coliformes fecales puede introducir nutrientes adicionales en los cuerpos de agua, como nitrógeno y fósforo, que pueden provocar la proliferación de algas y plantas acuáticas. Esto puede conducir a la eutrofización, un proceso que agota el oxígeno en el agua y puede causar la muerte de peces y otros organismos acuáticos. La presencia de coliformes fecales en el agua puede ser perjudicial para la vida acuática. Los patógenos asociados con los coliformes fecales pueden enfermar o matar a peces, anfibios, aves y otros organismos acuáticos, lo que afecta la biodiversidad y la salud de los ecosistemas acuáticos.
+
+Límites máximos permisibles de Coliformes Fecales (en NMP/100 mL): Para uso y consumo humano, la EPA establece 0, la OMS establece 0 y la NOM establece menos de 1.1. Para venta de agua y hielo, la EPA establece 0, la OMS establece 0 y la NOM establece menos de 1.1. Para vida acuática, la EPA establece 0 (la OMS y la NOM no establecen límite). No hay límite establecido para riego.
+
+--- ESCHERICHIA COLI (E. COLI) ---
+
+Descripción:
+Escherichia coli (E. coli) es una bacteria que se encuentra normalmente en el intestino del ser humano y de los animales de sangre caliente. La mayoría de las cepas de E. coli son inofensivas, sin embargo, la presencia de E. coli indica contaminación fecal del agua potable debido a contaminación cruzada; por lo tanto, E. coli o las bacterias coliformes no deben detectarse en ninguna muestra de agua potable (OMS, 2017).
+
+¿Cómo se manifiesta?:
+El agua contaminada con E. coli no presenta un cambio visible en su aspecto a simple vista. En la mayoría de los casos, el agua conserva su apariencia normal en cuanto a color, claridad y olor. La presencia de E. coli no altera el color del agua, y el olor tampoco es un indicador confiable. La única forma segura de determinar si el agua está contaminada con E. coli es realizar un análisis de laboratorio (Centros para el Control y la Prevención de Enfermedades, 2018).
+
+Definición técnica:
+La OMS establece que la presencia de E. coli en el agua potable es un indicador de contaminación fecal y un riesgo potencial para la salud. Por lo tanto, el agua potable analizada no debe contener E. coli (OMS, 2017).
+
+Efectos en la salud:
+La mayoría de las cepas de E. coli son inofensivas e incluso ayudan con la digestión. Sin embargo, algunas cepas pueden causar enfermedades graves, especialmente aquellas que producen toxinas. Las cepas de E. coli pueden provocar diarrea, colitis hemorrágica, infecciones en el tracto urinario, neumonía e incluso meningitis (OMS, 2020).
+
+Efectos en el medio ambiente:
+La presencia de E. coli en cuerpos de agua puede tener un impacto significativo en la vida acuática. La E. coli puede causar septicemia hemorrágica, una enfermedad que afecta los vasos sanguíneos de los peces, lo que puede provocar la muerte de especies acuáticas. Por lo tanto, la E. coli puede contribuir a la disminución de la biodiversidad.
+
+Límites máximos permisibles de E. coli (en NMP/100 mL): Para uso y consumo humano, la EPA establece ausencia, la OMS establece ausencia y la NOM establece ausencia. Para venta de agua y hielo, la EPA establece ausencia, la OMS establece ausencia y la NOM establece ausencia. Para vida acuática, la EPA establece 235, la OMS establece 235 y la NOM establece 600. Para riego, la EPA establece 235, la OMS establece 235 y la NOM establece 600.
+
+===============================
+SECCIÓN 3: FISICOQUÍMICOS
+===============================
+
+En esta sección se describen los parámetros fisicoquímicos que comúnmente se analizan en la calidad del agua y que incluso se toman como referencia para conocer el funcionamiento de los humedales. Esta categoría puede ser vista como las características o propiedades de una sustancia que se relacionan con su composición, comportamiento, y da información sobre cómo interactúan las sustancias con su entorno. Los parámetros incluidos en esta sección son: Alcalinidad Total, Cloruro, Conductividad Eléctrica, DBO, DQO, Dureza Total, Fluoruros, Nitritos y Nitratos, y Oxígeno Disuelto.
+
+--- ALCALINIDAD TOTAL ---
+
+Descripción:
+La alcalinidad es la capacidad del agua para neutralizar ácidos sin que haya un cambio rápido en el pH (Romero, 1999).
+
+¿Cómo se manifiesta?:
+Si el agua se encuentra con un pH mayor a 7, quiere decir que es alcalina y puede tener un sabor ligeramente amargo; su sabor puede variar dependiendo de los minerales que estén mezclados en el agua. En cuanto al olor y color, no debería tener cambios; en caso de que los tenga, puede ser por la presencia de otros contaminantes (USU, 2020).
+
+Definición técnica:
+La alcalinidad en el agua es gracias a la presencia de sales de ácidos débiles (bicarbonatos), bases débiles (carbonatos), y bases fuertes (hidróxidos). Dependiendo del pH en el agua, la alcalinidad se presenta de tres formas (D'Urquiza, 2023): Si el pH es mayor a 10, la alcalinidad es debida a hidróxidos solamente, o una mezcla de hidróxidos y carbonatos. Si el pH está entre 8 y 10, la alcalinidad es debida a carbonatos únicamente o a una mezcla de carbonatos y bicarbonatos. Si el pH es menor o igual a 8.3, la alcalinidad es debida exclusivamente casi a los bicarbonatos.
+
+Efectos en la salud:
+El agua alcalina es saludable para beber; en caso de que se tome agua alcalina, el cuerpo producirá ácido clorhídrico para mantener el pH del cuerpo (Goldman, 2024).
+
+Efectos en el medio ambiente:
+Si se presenta un exceso de alcalinidad en el agua, puede afectar la disponibilidad de nutrientes, afectando a las plantas, cambiando a un color amarillento o blanco en las hojas (Torres, s.f.).
+
+Límites máximos permisibles de Alcalinidad Total: Para vida acuática, la EPA establece 2 mg/L. Para riego, la OMS establece 91.5 mg/L. No hay límites establecidos para uso y consumo humano ni venta de agua y hielo en este parámetro.
+
+--- CLORURO ---
+
+Descripción:
+El cloro es un elemento químico que se puede combinar con otros para formar compuestos como los cloruros. El cloruro más famoso es el de sodio (NaCl), conocido como sal de mesa (OMS, 2003). Los cloruros pueden venir de las rocas y llegar hasta el agua y el suelo, pero también pueden venir de diversas fuentes industriales (OMS, 2003).
+
+¿Cómo se manifiesta?:
+Un exceso de cloruros puede causar alteraciones en el sabor del agua, haciéndola más salada y con un sabor desagradable para las personas (Gobierno de las Islas Baleares, s.f.). Además, su exceso en el suelo puede provocar manchas e intoxicación en las plantas.
+
+Definición técnica:
+El cloruro es un anión haluro que se forma cuando el cloro capta un electrón para formar un anión. Tiene un papel como metabolito humano, metabolito de Escherichia coli y como cofactor. Es un anión haluro y un cloro monoatómico. Es una base conjugada de un cloruro de hidrógeno (National Center for Biotechnology Information, 2024).
+
+Efectos en la salud:
+No se ha observado toxicidad causada por cloruros en humanos a corto ni largo plazo, aunque un exceso de cloruro de sodio (sal) se ha visto relacionado con problemas como la hipertensión por el alto contenido de sodio (OMS, 2003).
+
+Efectos en el medio ambiente:
+Al haber cantidades muy altas de cloruros en el suelo, este puede causar salinidad en los suelos, reduciendo su fertilidad y el crecimiento de plantas. Además, las plantas que crezcan en suelo con un exceso de cloruros son más propensas a acumular el cloro dentro de ellas, afectando su crecimiento y desarrollo (Geilfus, 2019). Este exceso de cloro en las plantas puede dar lugar a su corrosión e incluso a su muerte por intoxicación (Parés & Basso, 2013).
+
+Límites máximos permisibles de Cloruro: Para uso y consumo humano, la EPA establece 250 mg/L y la OMS establece 250 mg/L (la NOM no establece límite). Para venta de agua y hielo, la EPA establece 250 mg/L y la OMS establece 250 mg/L (la NOM no establece límite). Para vida acuática, la EPA establece 860 mg/L (la OMS y la NOM no establecen límite). Para riego, la NOM establece 1000 mg/L (la EPA y la OMS no establecen límite).
+
+--- CONDUCTIVIDAD ELÉCTRICA ---
+
+Descripción:
+Este parámetro es visto como la capacidad de una sustancia o solución para conducir una corriente eléctrica; se puede decir que a una mayor conductividad eléctrica hay más concentración de partículas (Omer, 2019). Una alta conductividad se puede relacionar con alta concentración de contaminantes, por lo que el agua destilada, por ejemplo, tiene una conductividad casi nula (Beniwal et al., 2021).
+
+¿Cómo se manifiesta?:
+Como tal, no se manifiesta el grado de conductividad eléctrica; es necesaria su medición con aparatos para saberlo con certeza. Altas conductividades pueden causar corrosión en equipos industriales o sistemas de plomería, acumulación de incrustaciones, sabor mineral en el agua potable y problemas con la concentración de sólidos disueltos en la agricultura (atlascientific, 2022). Se relaciona proporcionalmente con sólidos disueltos totales y turbidez.
+
+Definición técnica:
+La conductividad eléctrica (σ) es una medida de la capacidad del material para conducir una corriente eléctrica. Las unidades de conductividad son Siemens por metro (S/m), o más comúnmente microSiemens por centímetro (µS/cm). Es recomendable medir este parámetro a 25°C ya que la temperatura afecta proporcionalmente el grado de conductividad eléctrica.
+
+Efectos en la salud:
+Una alta conductividad o un cambio drástico en este parámetro indica perturbación ambiental, pero no necesariamente una alta conductividad significa un riesgo para el consumo humano, aunque se recomiendan niveles de 0 a 800 µS/cm para consumo humano (EPA, s.f.).
+
+Efectos en el medio ambiente:
+En el medio ambiente, un cambio drástico en la conductividad eléctrica en un cuerpo de agua (ya sea un cambio alto o bajo) es indicador de que hay contaminación en el cuerpo de agua. Este parámetro no indica el contaminante en específico, pero sí indica que hay un problema de contaminación para invertebrados o peces, generalmente por descargas agrícolas o fugas de aguas residuales (atlascientific, 2022).
+
+Límites máximos permisibles de Conductividad Eléctrica (en µS/cm): Para uso y consumo humano, la EPA establece un rango de 150-800. Para venta de agua y hielo, la EPA establece un rango de 150-800. Para vida acuática, la EPA establece un rango de 50-1500. No hay límite establecido para riego. La OMS y la NOM no establecen límites para este parámetro.
+
+--- DBO (DEMANDA BIOQUÍMICA DE OXÍGENO) ---
+
+Descripción:
+La Demanda Bioquímica de Oxígeno (DBO) es la cantidad de oxígeno que utilizan los microorganismos para poder consumir la materia orgánica (hojas, ramas, huesos, etc.) y limpiar el agua. Entre mayor sea la DBO, más contaminada está el agua.
+
+¿Cómo se manifiesta?:
+Se puede manifestar con la presencia de materia orgánica y/o compuestos inorgánicos (sustancias químicas que no se encuentran normalmente en la naturaleza). Si en el agua hay solamente materia orgánica (materia natural), entonces se puede considerar que se puede medir con la DBO. En caso de que también haya compuestos inorgánicos en el agua, se puede utilizar la medición de DQO (Fuentes, 2015).
+
+Definición técnica:
+La DBO mide la cantidad de oxígeno requerido o consumido por la descomposición microbiológica (oxidación) de materia orgánica en el agua (ONU, s.f.).
+
+Efectos en la salud:
+Los efectos a la salud dependen del producto orgánico ingerido, pero normalmente pueden ser: diarrea, enrojecimiento o erupciones de la piel y dolor de garganta, alergias, entre otros (Carbotecnia, 2023).
+
+Efectos en el medio ambiente:
+Los efectos al ambiente de la materia orgánica pueden ocasionar que el oxígeno disuelto en el agua se consuma más rápido que el que entra por la atmósfera, dejando un lugar con muy poco oxígeno (anóxico), afectando a los organismos de la zona (Aqua, 2007). El exceso de macronutrientes (nutrientes grandes que benefician mucho a las plantas) puede provocar eutrofización (dejar los cuerpos de agua sin oxígeno) en los cuerpos de agua (NOAA, 2024).
+
+Límites máximos permisibles de DBO: Para riego, la EPA establece un límite menor o igual a 10 mg/L. No hay límites establecidos para uso y consumo humano, venta de agua y hielo, ni vida acuática en este parámetro, ni por parte de la OMS ni de la NOM.
+
+--- DQO (DEMANDA QUÍMICA DE OXÍGENO) ---
+
+Descripción:
+Parámetro clave para saber la calidad de agua, que también se ve relacionado con el oxígeno en el agua. En este caso, lo que mide es la cantidad de oxígeno disuelto necesario para oxidar los compuestos naturales y sustancias químicas en el agua (Nigam et al., 2024).
+
+¿Cómo se manifiesta?:
+Se puede manifestar con la presencia de materia orgánica y/o compuestos inorgánicos (sustancias químicas que no se encuentran naturalmente). Si en el agua hay solamente materia orgánica, entonces se puede considerar que se puede medir con la DBO. En caso de que también haya compuestos inorgánicos en el agua, se puede utilizar la medición de DQO (Fuentes, 2015).
+
+Definición técnica:
+La Demanda Química de Oxígeno (DQO) es la cantidad de oxígeno necesario que permite ciertas reacciones para poder descomponer la materia natural y la materia química que no se encuentra en la naturaleza.
+
+Efectos en la salud:
+La DQO, al relacionarse con la cantidad de organismos y sustancias químicas que consumen el oxígeno del agua, va a tener efectos variantes en la salud humana, estando más relacionados con las sustancias químicas presentes en el agua.
+
+Efectos en el medio ambiente:
+Las descargas industriales pueden ser tóxicas, reactivas, carcinogénicas e inflamables, afectando también el medio ambiente, ya que si la DQO sale con valores altos, quiere decir que el agua está contaminada con sustancias químicas a las que el entorno no está acostumbrado, matando la zona por la falta de oxígeno (Ahmed, 2021).
+
+Límites máximos permisibles de DQO: Para vida acuática, la NOM establece 210 mg/L. Para riego, la OMS establece 84 mg/L y la NOM establece 210 mg/L. No hay límites establecidos para uso y consumo humano ni venta de agua y hielo en este parámetro.
+
+--- DUREZA TOTAL ---
+
+Descripción:
+Generalmente, la dureza del agua se debe a la cantidad de calcio y magnesio disueltos en el agua; por lo tanto, la dureza del agua es alta cuando hay altos minerales disueltos (USGS, 2018).
+
+¿Cómo se manifiesta?:
+Las fuentes naturales de la dureza vienen de disolver las rocas sedimentarias, filtración, y escurrimientos en el suelo. De igual forma, la dureza se puede presentar en productos industriales. La dureza en el agua se manifiesta naturalmente a concentraciones de 100 mg/L; rara vez hay fuentes con concentraciones mayores a 200 mg/L. Para consumo humano, la dureza del agua está en el rango de 10-500 mg/L de CaCO3 (OMS, 2003).
+
+Definición técnica:
+La dureza del agua se debe a los minerales que estén mezclados en el agua, ya sea porque el agua pasó por el suelo o rocas que se llevó consigo piedras más pequeñas en el camino y que se hayan mezclado.
+
+Efectos en la salud:
+La dureza del agua no se ha asociado con efectos adversos a la salud humana (Romero, 1999).
+
+Efectos en el medio ambiente:
+La dureza en el agua no representa un peligro en la naturaleza; incluso puede ayudar a reducir la toxicidad de ciertos metales como plomo, cadmio, cromo, y zinc. Entre más dura sea el agua, menor es la toxicidad de los metales en la vida acuática (Kentucky, s.f.).
+
+Límites máximos permisibles de Dureza Total: Para uso y consumo humano, la NOM establece 500 mg/L. Para venta de agua y hielo, la NOM establece 100 mg/L. No hay límites establecidos para vida acuática ni riego, ni por parte de la EPA ni de la OMS en este parámetro.
+
+--- FLUORUROS ---
+
+Descripción:
+El flúor es un gas cuya forma más común es el fluoruro, un mineral que suele ser agregado a las pastas dentales ya que ayuda a prevenir las caries (National Institutes of Health, 2020). También se usa en la fabricación de fertilizantes, ladrillos, azulejos y cerámica (OMS, 2004).
+
+¿Cómo se manifiesta?:
+Si ocurre una exposición excesiva a este compuesto, puede causar fluorosis dental, la cual se expresa con decoloración y corrosión en los dientes, creando manchas (Vásquez, 2019).
+
+Definición técnica:
+El fluoruro es un elemento común que no se encuentra en estado elemental en la naturaleza debido a su alta reactividad. Representa aproximadamente 0.3 g/kg de la corteza terrestre y existe en forma de fluoruros en varios minerales, entre los que se encuentran la fluorita, la criolita y la fluorapatita como los más comunes. El estado de oxidación del ion fluoruro es -1 (OMS, 2004).
+
+Efectos en la salud:
+Un consumo prolongado de agua con 3-6 mg/L de fluoruro puede causar fluorosis esquelética, causando manchas y cambios en la forma de los huesos. Asimismo, cuando esta cantidad se eleva a 10 mg/L de fluoruros o más, la fluorosis puede llegar a ser invalidante, provocando dolor en las articulaciones, osteoesclerosis (endurecimiento y engrosamiento de los huesos que daña la médula ósea) y otros efectos (OMS, 2004).
+
+Efectos en el medio ambiente:
+Un exceso de fluoruro puede retrasar el crecimiento de las plantas y afectar su rendimiento. En animales de granja, la intoxicación por fluoruros ha provocado anorexia, calambres, insuficiencia respiratoria y otros síntomas (Kall & Griffin, 2024).
+
+Límites máximos permisibles de Fluoruros: Para uso y consumo humano, la EPA establece 2 mg/L, la OMS establece 1.5 mg/L y la NOM establece 1.5 mg/L. Para venta de agua y hielo, la EPA establece 2 mg/L, la OMS establece 1.5 mg/L y la NOM establece 0.7 mg/L. No hay límites establecidos para vida acuática ni riego en este parámetro.
+
+--- NITRITOS Y NITRATOS ---
+
+Descripción:
+Los nitratos son compuestos que tienen un nitrógeno y tres oxígenos. Por otra parte, el nitrito tiene un nitrógeno y dos oxígenos. Tanto las plantas como los animales los necesitan para vivir y crecer, por lo que se pueden encontrar de manera natural en sus desechos. También pueden encontrarse en fertilizantes, medicamentos, aditivos alimenticios, explosivos y municiones (Agencia para Sustancias Tóxicas y el Registro de Enfermedades, 2017).
+
+¿Cómo se manifiesta?:
+Cuando hay un exceso de nitratos y nitritos en el agua, estos provocan un crecimiento desmedido de algas y otras plantas acuáticas (Jean-Claude, 2017). Asimismo, al consumir dosis muy altas de nitrato, la piel alrededor de los ojos y la boca se torna azul (Swistock, 2023).
+
+Definición técnica:
+El nitrato y el nitrito son iones que se encuentran de manera natural en el medio ambiente. El nitrato es producto de la oxidación del nitrógeno, como parte del ciclo de producción de moléculas como proteínas, las cuales son usadas por todos los seres vivos. Por otra parte, el nitrito es el resultado de la oxidación del nitrato. El nitrato es la forma más estable del nitrógeno oxidado, mientras que el nitrito es más inestable y reactivo (OMS, 2016).
+
+Efectos en la salud:
+Al haber una ingesta excesiva de nitritos y nitratos, estos pueden provocar síndrome del bebé azul, causando baja presión arterial, dolores de cabeza, cólicos, vómito, etc. Además, al haber exposición crónica prolongada pueden formar compuestos cancerígenos (Londoño Pereira & Gómez Ramírez, 2021).
+
+Efectos en el medio ambiente:
+Al haber un exceso de nitritos, estos pueden causar un exceso de nutrientes, también llamado eutrofización. Cuando las plantas y algas que crecen a causa de la eutrofización se empiezan a descomponer, consumen oxígeno, poniendo en riesgo al resto de la vida acuática, ya que crean una competencia por el oxígeno, llegando a provocar la muerte de peces y otros organismos (Jean-Claude, 2017).
+
+Límites máximos permisibles de Nitratos: Para uso y consumo humano, la EPA establece 10 mg/L, la OMS establece 50 mg/L y la NOM establece 11 mg/L. Para venta de agua y hielo, la EPA establece 10 mg/L, la OMS establece 50 mg/L y la NOM establece 10 mg/L. Para vida acuática, la EPA establece 8 mg/L (la OMS y la NOM no establecen límite). No hay límite establecido para riego.
+
+Límites máximos permisibles de Nitritos: Para uso y consumo humano, la EPA establece 1 mg/L, la OMS establece 3 mg/L y la NOM establece 0.9 mg/L. Para venta de agua y hielo, la EPA establece 1 mg/L, la OMS establece 3 mg/L y la NOM establece 0.06 mg/L. No hay límites establecidos para vida acuática ni riego en este parámetro.
+
+--- OXÍGENO DISUELTO ---
+
+Descripción:
+La cantidad de oxígeno disuelto (OD) en el agua se puede relacionar indirectamente con la existencia de contaminación. Como regla general, una mayor cantidad de OD en una muestra de agua significa una mejor calidad de agua (O'Donnell, 2021). Las descargas de materia orgánica, residuos industriales, el escurrimiento de terrenos agrícolas o parcelas ganaderas, y el aumento de la temperatura llevan a la disminución del OD (Ibáñez et al., 2016).
+
+¿Cómo se manifiesta?:
+Beber agua con muy poco o nada de oxígeno tiene un sabor desagradable para algunas personas (Omer, 2019). Asimismo, la falta de oxígeno puede causar cambios en la coloración del agua, la cual se puede tornar verde, parda y/o turbia. Por el contrario, si se tienen niveles de oxígeno disuelto muy altos, esto puede causar corrosión en las tuberías (OMS, 2011).
+
+Definición técnica:
+El oxígeno disuelto (OD) es la cantidad de oxígeno presente en el agua. Los cuerpos de agua reciben oxígeno de la atmósfera y de las plantas acuáticas. El agua con movimiento, como la de un arroyo con corriente rápida, disuelve más oxígeno que el agua sin movimiento de un estanque o lago (US EPA, 2023).
+
+Efectos en la salud:
+No se considera que el consumo de agua potable con bajos niveles de oxígeno disuelto tenga un efecto directo. No obstante, ya que el oxígeno disuelto es un indicador de la calidad del agua, es probable que si el agua tiene poco o nulo oxígeno disuelto, también haya presencia de contaminantes que sí tengan un efecto directo sobre la salud (OMS, 2011).
+
+Efectos en el medio ambiente:
+Cuando hay bajos niveles de OD en el agua, esto provoca que los organismos acuáticos que viven en ese ecosistema migren, se enfermen o incluso mueran (Atlas Scientific, 2022). Además, aumenta su nivel de estrés, provocando falta de apetito, crecimiento retardado y susceptibilidad a enfermedades (Boyd, 2022).
+
+Límites mínimos permisibles de Oxígeno Disuelto: Para uso y consumo humano, la EPA establece 4 mg/L. Para venta de agua y hielo, la EPA establece 4 mg/L. Para vida acuática, la EPA establece 5 mg/L. Para riego, la EPA establece 3 mg/L. La OMS y la NOM no establecen límites para este parámetro. (Nota: al ser límites mínimos, un valor por debajo de estos representa un problema de calidad de agua.)
+
+===============================
+SECCIÓN 4: FÍSICOS
+===============================
+
+En esta sección se describen los parámetros físicos incluidos: pH (alcalinidad o acidez del agua), turbiedad y color aparente. Estos últimos dos parámetros se ven relacionados con la cantidad de partículas disueltas y suspendidas que hay en el agua. Cabe destacar que no son los únicos parámetros físicos existentes, pero son los incluidos en esta sección.
+
+--- COLOR APARENTE ---
+
+Descripción:
+El color aparente del agua se refiere a cómo se ve a simple vista; es la impresión visual que nos da el agua cuando la observamos. Puede variar desde un color claro y transparente, como el cristal, hasta un color más oscuro, como el marrón o el verde. Las partículas suspendidas y disueltas en el agua (como los colorantes) influyen en el color del agua. El color se puede ver influenciado por actividades humanas o razones naturales, pero este parámetro nos puede ayudar indirectamente a determinar la calidad del agua (Flowen, 2020a).
+
+¿Cómo se manifiesta?:
+Un color marrón o amarillo en el agua es indicador de materia orgánica (turba o materia vegetal en descomposición); algunas algas o microalgas producen coloración rojiza o amarilla intensa, algunas cianobacterias o fitoplancton pueden tornar el agua de coloración verde. Por último, las escorrentías de suelo pueden provocar una gran variedad de colores en el agua (marrón, gris, amarillo, etc.). El color del agua es variable dependiendo de la estación del año; así pues, en temporada estival, donde las lluvias suelen ser pocas, el color puede aumentar (DWI, s.f.).
+
+Definición técnica:
+El color aparente del agua mide componentes disueltos y suspendidos; el color real del agua se mide filtrando los sólidos suspendidos. Es importante tener en cuenta que el color se puede clasificar en una escala de 0 a 70, siendo el 0 el agua potable, ya que es esencialmente incolora (O'Donnell, 2021).
+
+Efectos en la salud:
+La eliminación del color del agua es necesaria no solo por razones estéticas, sino también porque la coloración de aguas muy coloreadas puede dar lugar a altas concentraciones de trihalometanos, los cuales se forman cuando el cloro o el bromo reaccionan con materia orgánica presente en el agua, como residuos vegetales o materia fecal. Estos compuestos pueden representar un riesgo para la salud humana si se ingieren en grandes cantidades durante un período prolongado (DWI, s.f.).
+
+Efectos en el medio ambiente:
+El color en cuerpos de agua natural podría reflejar la presencia de moléculas orgánicas complejas derivadas de materias vegetales (húmicas), tales como turba, hojas, ramas. Con menor frecuencia, el color en cuerpos de agua natural puede surgir de la presencia de iones de hierro y/o manganeso (Martinez, 2018). El color del agua puede afectar la cantidad de luz solar que absorbe, lo que puede influir en la temperatura del agua y en los ecosistemas acuáticos, afectando a las especies que viven en ellas. El color del agua puede influir también en los procesos de fotosíntesis realizados por las plantas acuáticas.
+
+Límites mínimos permisibles de Color Aparente: Para uso y consumo humano, la EPA establece 15 unidades de color, la OMS establece 15 unidades de color y la NOM establece 15 unidades de color. Para venta de agua y hielo, la EPA establece 15 unidades de color, la OMS establece 15 unidades de color y la NOM establece 15 Pt/Co. Para vida acuática y riego, la NOM establece 436 nm en ambos casos. La EPA y la OMS no establecen límites para vida acuática ni riego.
+
+--- pH ---
+
+Descripción:
+El pH mide el grado de acidez o alcalinidad de un líquido. La escala va del 0 (valor más ácido) al 14 (el más básico). El valor neutro es normalmente una escala de 7 de pH, como el agua pura (EPA, s.f.). El pH se encuentra naturalmente en los cuerpos de agua, pero un aumento o disminución del pH puede afectar a la flora y/o equipos como tuberías.
+
+¿Cómo se manifiesta?:
+Si el pH es elevado, puede ocasionar un sabor amargo y puede tapar las tuberías o instrumentos relacionados. El agua con pH muy alto o bajo puede ser corrosiva, dañando tuberías, equipos de tratamiento de agua y otras infraestructuras. Si el pH es bajo, el agua puede corroer o disolver metales y otras sustancias (USGS, 2019).
+
+Definición técnica:
+La Organización Mundial de la Salud (OMS) no tiene una definición específica del pH. Sin embargo, sí proporciona información sobre la importancia del pH en la salud humana. En sus directrices del 2017, la OMS establece un rango de pH recomendado (6.5 a 8.5) para el agua potable, considerando su impacto en la salud humana (OMS, 2017).
+
+Efectos en la salud:
+Si bien no hay una relación directa sobre efectos adversos del pH y la salud humana, indirectamente, si el pH se encuentra bajo y se transporta en tuberías, el agua puede disolver la tubería, teniendo disueltos restos de tubería que pueden llegar a las personas (OMS, 2007).
+
+Efectos en el medio ambiente:
+Los organismos acuáticos tienen un rango de pH tolerable relativamente estrecho. El agua con pH extremadamente alto o bajo puede ser tóxica para muchos peces, invertebrados y plantas acuáticas, provocando acidosis. La acidificación o alcalinización del agua puede llevar a la desaparición de especies sensibles, reduciendo la biodiversidad y la riqueza de los ecosistemas acuáticos. Además, alteraciones significativas del pH pueden afectar la reproducción, la eclosión de huevos y la supervivencia de las larvas, impactando las poblaciones de diversas especies (Iberdrola, 2020).
+
+Límites mínimos permisibles de pH: Para uso y consumo humano, tanto la EPA como la OMS establecen un rango de 6.5 a 8.5, y la NOM establece un rango de 6.5 a 8.5. Para venta de agua y hielo, la EPA, la OMS y la NOM establecen un rango de 6.5 a 8.5. Para vida acuática, la EPA y la OMS establecen un rango de 6.5 a 8.5, y la NOM establece un rango de 6 a 9. Para riego, la EPA y la OMS establecen un rango de 6.5 a 8.5, y la NOM establece un rango de 6 a 9.
+
+--- TURBIEDAD ---
+
+Descripción:
+La turbidez del agua es una medida de qué tan clara es. Se refiere a la cantidad de partículas en suspensión que hay en el agua, como arena, arcilla, limo, algas, bacterias y otros microorganismos. La turbidez se mide en unidades de nefelometría de turbidez (NTU). Cuanto mayor sea el número de NTU, mayor será la turbidez del agua (Higiene Ambiental, s.f.).
+
+Efectos en la salud:
+El consumo de agua turbia con altos niveles de microorganismos patógenos, como bacterias, virus o protozoos, puede provocar enfermedades gastrointestinales como diarrea, vómitos, náuseas y dolor abdominal. El contacto con agua turbia durante el baño puede ocasionar irritación en la piel, picazón y enrojecimiento; además, el uso de agua turbia para lavarse los ojos puede aumentar el riesgo de infecciones oculares, como conjuntivitis (OMS, 2017).
+
+Efectos en el medio ambiente:
+Altos niveles de turbidez pueden afectar el equilibrio ecológico de los ecosistemas acuáticos. Los peces y otros animales acuáticos necesitan agua clara para ver y encontrar comida. La turbidez puede reducir la cantidad de luz que penetra en el agua, interfiriendo en la cantidad de oxígeno en el agua, generando ambientes sin la suficiente concentración de oxígeno, lo que puede dañar o incluso eliminar la vida acuática (International Association of Dredging Companies, 2017).
+
+Límites mínimos permisibles de Turbiedad (en NTU): Para uso y consumo humano, la EPA establece 1, la OMS establece 5 y la NOM establece 4. Para venta de agua y hielo, la EPA establece 1, la OMS establece 5 y la NOM establece 3. No hay límites establecidos para vida acuática ni riego en este parámetro.
+
+Nota general sobre las tablas de límites permisibles: Para todos los parámetros de esta sección, las Normas Oficiales Mexicanas (NOM) de referencia son: uso y consumo humano, NOM-127-SSA1-2021; venta de agua y hielo envasado, NOM-201-SSA1-2015; vida acuática (descarga a ríos), NOM-001-SEMARNAT-2021; riego, NOM-001-SEMARNAT-2021.
+
+===============================
+BIBLIOGRAFÍA
+===============================
+
+ACE. (s.f.). Water Quality 101 | ACE Project. https://ace-project.org/water-quality-101/
+Agencia para Sustancias Tóxicas y el Registro de Enfermedades. (2017). Nitrato y Nitrito (Nitrate/Nitrite) | ToxFAQ | ATSDR. https://www.atsdr.cdc.gov/es/toxfaqs/es_tfacts204.html
+Análisis de Color. (s.f.). http://www.drcalderonlabs.com/Metodos/Analisis_De_Aguas/Analisis_de_Color1.htm
+Armoniz. Estándares Agua Potable. (s.f.). https://www.oas.org/dsd/publications/classifications/Armoniz.EstandaresAguaPotable.pdf
+Atlas Scientific. (2022). Causes Of Low Dissolved Oxygen In Water. https://atlas-scientific.com/blog/causes-of-low-dissolved-oxygen-in-water/
+Atlas Scientific. (2022). What Causes High Conductivity In Water? https://atlas-scientific.com/blog/what-causes-high-conductivity-in-water/
+ATSDR. (2021). Resumen de Salud Pública: Cadmio (Cadmium). https://www.atsdr.cdc.gov/es/phs/es_phs5.html
+Bacterias Coliformes. (s.f.). https://extension.psu.edu/bacterias-coliformes
+Barcelona, U. A. de. (s.f.). El plomo: Un problema medioambiental y para la salud.
+Beniwal, V. D., Kumari, R., & Jain, D. S. (2021). Physico-Chemical Parameter: An Indicator of Water Pollution. Journal of Environmental Research, 5(5).
+Bolaños-Alfaro, J., Cordero-Castro, G., & Segura-Araya, G. (2017). Determinación de nitritos, nitratos, sulfatos y fosfatos en agua potable como indicadores de contaminación ocasionada por el hombre, en dos cantones de Alajuela (Costa Rica). Tecnología en Marcha, 30(4), 15-27.
+Borzenko Timofey. (2022). Chinese scientists innovate remediating cadmium-contaminated water, soil. Ukranews.
+Boyd, C. E. (2022). El oxígeno disuelto es una preocupación importante en la acuacultura.
+Campos-Sánchez, A., & Ulloa-Carcassés, M. (2016). Tratamiento de aguas sulfatadas de origen superficial producidas por una mina de carbón a cielo abierto. Minería y Geología, 32(4), 160-171.
+Clearwater Systems. (s.f.). Blue-Green Staining on Fixtures? Get Water Tested.
+Comité Mixto FAO/OMS de Expertos en Aditivos Alimentarios. (2019). Evaluation of certain food additives and contaminants. WHO Technical Reports series 913, 20-32.
+Das, B., Das, P., Prava, D., & Dash, P. (2021). Green technology to limit the effects of hexavalent chromium contaminated water bodies on public health and vegetation at industrial sites. Journal of Applied Biology & Biotechnology, 9.
+Descontaminación de aguas industriales. (s.f.). Ingenieros.
+DWI. (s.f.). The physical and chemical properties of water. Drinking Water Inspectorate.
+Flowen. (2020a). Turbidez en el agua. https://flowen.com.pe/turbidez-en-el-agua/
+Flowen. (2020b). ¿Cómo se elimina el plomo del agua? https://flowen.com.pe/como-se-elimina-el-plomo-del-agua/
+Genchi, G., Sinicropi, M. S., Lauria, G., Carocci, A., & Catalano, A. (2020). The effects of cadmium toxicity. International Journal of Environmental Research and Public Health, 17(11), 3782.
+Gobierno de las Islas Baleares. (s.f.). Salud ambiental - Cloruros.
+Gopiath, J. (2022). Skeletal Fluorosis. Medindia.
+Greenspec. (s.f.). Química tóxica: Cromo hexavalente.
+Haraldson, T. (2022). Calcium Chloride. Puracy.
+Harshil Industries. (s.f.). Sodium Fluoride Chemicals.
+Jamasmie. (2014). Mexico copper mine spill pollutes water supplies 40 km from US border. MINING.COM.
+Japan, F. (2016). Remarkable Water Contamination by Hexavalent Chromium Found surrounding Japanese Nickel Processing Plants in the Philippines. FoE Japan.
+Jean-Claude, G. (2017). Nitrates in the environment. Encyclopedia of the Environment.
+Jeong, H., Kim, H., & Jang, T. (2016). Irrigation Water Quality Standards for Indirect Wastewater Reuse in Agriculture: A Contribution toward Sustainable Wastewater Reuse in South Korea. Water, 8(4).
+Kall, J., & Griffin, C. (2024). Fluoride Pollution and Harm to the Environment. IAOMT.
+Kinuthia, G. K., Ngure, V., Beti, D., Lugalia, R., Wangila, A., & Kamau, L. (2020). Levels of heavy metals in wastewater and soil samples from open drainage channels in Nairobi, Kenya: Community health implication. Scientific Reports, 10, 8434.
+Lizárraga-Chaidez, M., Mendoza-Sánchez, M., García, L., & García-Pérez, J. (2023). El inocente impacto ambiental del suero de la leche. EPISTEMUS, 18.
+Londoño Pereira, M., & Gómez Ramírez, B. D. (2021). Nitratos y nitritos, la doble cara de la moneda. Revista de Nutrición Clínica y Metabolismo, 4(1), 110-119.
+Madhav, S., Ahamad, A., Singh, A. K., Kushawaha, J., Chauhan, J. S., Sharma, S., & Singh, P. (2020). Water Pollutants: Sources and Impact on the Environment and Human Health. En Sensors in Water Pollutants Monitoring: Role of Material (pp. 43-62). Springer Singapore.
+Mahmud, H. N. M., Huq, A. K. O., & Yahya, R. (2016). Removal of Heavy Metal Ions from Wastewater/Aqueous Solution by Polypyrrole-based Adsorbents: A Review. RSC Advances, 6.
+Manganeso - OPS/OMS | Organización Panamericana de la Salud. (2020).
+Mercurio (azogue) metálico (Hg) | ATSDR - ToxFAQs. (2022).
+Mercurio - OPS/OMS | Organización Panamericana de la Salud. (2024).
+México es 5to lugar mundial en producción de plomo. (s.f.). Mundo Minero MX.
+National Center for Biotechnology Information. (2024). Chloride Ion.
+National Institutes of Health. (2020). Datos sobre el fluoruro.
+Nervion. (s.f.). Definición de corrosión.
+Nigam, V., Behl, N., & Kanchan, M. C. (2024). Physico-Chemical Parameters for Testing of Water - A Review. International Journal of Pharmacy and Biological Sciences, 3(3).
+NORMA Oficial Mexicana NOM-001-SEMARNAT-2021, Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación. (2022).
+Nutripediatria. (2017). Nitratos, nitritos y salud infantil.
+O'Donnell, D. (2021). Three Main Types of Water Quality Parameters Explained. Sensorex Liquid Analysis Technology.
+Omer, N. H. (2019). Water Quality Parameters. En Water Quality - Science, Assessments and Policy. IntechOpen.
+Organización Mundial de la Salud. (2003). Chloride in Drinking-water.
+Organización Mundial de la Salud. (2004). Fluoride in Drinking-water.
+Organización Mundial de la Salud. (2011). Guidelines for drinking-water quality.
+Organización Mundial de la Salud. (2016). Nitrate and Nitrite in Drinking-water.
+Parés, J., & Basso, C. (2013). Efecto del cloruro de sodio sobre el crecimiento y estado nutricional de plantas de papaya. Bioagro, 25(2), 109-116.
+Platt. (s.f.). Chloride excess avocado leaves.
+Plomo - OPS/OMS | Organización Panamericana de la Salud. (2020).
+Prasad, S., Yadav, K. K., Kumar, S., Gupta, N., Cabral-Pinto, M. M. S., Rezania, S., Radwan, N., & Alam, J. (2021). Chromium contamination and effect on environmental health and its remediation: A sustainable approach. Journal of Environmental Management, 285, 112174.
+Propiedades del hierro (Fe). (2022). National Geographic España.
+ReAgent. (2022). Why Does Potassium Iodide Solution Conduct Electricity? ReAgent Chemical Services.
+Resumen de Salud Pública: Manganeso (Manganese) | PHS | ATSDR. (2021a).
+Resumen de Salud Pública: Níquel (Nickel) | PHS | ATSDR. (2021b).
+Resumen de Salud Pública: Plomo (Lead) | PHS | ATSDR. (2021c).
+Rodríguez, M. J., Rodríguez, G., Serodes, J., & Sadiq, R. (2007). Subproductos de la desinfección del agua potable: Formación, aspectos sanitarios y reglamentación. Interciencia, 32(11), 749-756.
+ScaleBuster. (2017). Corrosión de tuberías. Descalcificador ScaleBuster.
+Sharma, S. K. (2014). Heavy Metals In Water: Presence, Removal and Safety. Royal Society of Chemistry.
+Sulfatos - Lenntech. (s.f.).
+Suser Dietética. (2024). ¿Qué son las sales de magnesio y para qué sirven? Herbolario Salud Natural.
+Swistock, B. (2023). Nitratos en el Agua Potable.
+US EPA. (2015). Términos B.
+US EPA. (2017). Electrical Conductivity and Resistivity.
+US EPA. (2023). Indicators: Dissolved Oxygen.
+USGS. (2018). Hardness of water. U.S. Geological Survey.
+Vásquez, I. (2019). Todo lo que debe saber sobre fluorosis dental. Clínica Dental Odentid.
+Water, N. R. C. (US) Committee on Copper in Drinking Water. (2000). Health Effects of Excess Copper. En Copper in Drinking Water. National Academies Press (US).
+WHO. (2007). pH in Drinking Water. Revised background document for development of WHO Guidelines for Drinking-water Quality.
+World Health Organization. (2004). Cadmium in drinking-water: background document for development of WHO guidelines for drinking-water quality.
+World Health Organization. (2020). Chromium in drinking-water.
+Wright, D. A., & Welbourn, P. M. (1994). Cadmium in the aquatic environment: a review of ecological, physiological, and toxicological effects on biota. Environmental Reviews, 2(2), 187-214.
+Zúñiga Carrasco, I. R., & Samperio Morales, H. (2019). Importancia de la cloración del agua: sitios de abastecimiento con presencia de bacterias patógenas. Enfermedades Infecciosas y Microbiología, 39, 86-92.

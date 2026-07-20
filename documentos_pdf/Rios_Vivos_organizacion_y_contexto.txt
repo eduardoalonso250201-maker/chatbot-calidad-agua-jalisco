@@ -1,0 +1,157 @@
+RÍOS VIVOS: ORGANIZACIÓN, CONTEXTO Y COMUNIDADES DE LA CUENCA DEL RÍO SANTIAGO
+
+===============================
+SECCIÓN 1: CARACTERIZACIÓN DE LA ORGANIZACIÓN
+===============================
+
+Ríos Vivos es un proyecto administrado por el Centro de Investigaciones y Estudios Superiores en Antropología Social Occidente (CIESAS Occidente). Surgió en 2013 como un experimento de educación comunitaria dirigido a comunidades afectadas por la contaminación provocada principalmente por la industria y la agricultura. Desde sus inicios, el proyecto ha buscado promover soluciones y tecnologías innovadoras para mejorar la gestión y calidad del agua de las comunidades de manera accesible, replicable y a bajo costo, con el propósito de evitar el colapso ecosistémico de la región.
+
+Ríos Vivos trabaja específicamente en comunidades de la cuenca Río Santiago-Guadalajara (riosvivos.org).
+
+1.1 Etapas del proyecto
+
+Primera etapa (2017): con el financiamiento de la Fundación Gonzalo Río Arronte (FGRA), se trabajó con cinco comunidades distintas mediante talleres y sesiones educativas. Como resultado de esta etapa se construyeron: dos plantas de tratamiento de aguas residuales (PTAR), cinco purificadoras comunitarias, sesenta filtros caseros y cuatro humedales, entre otras acciones.
+
+Segunda etapa (mayo 2023 - mayo 2026): se busca extender el proyecto a trece comunidades, continuar con el mantenimiento de las obras ya edificadas, construir nueva infraestructura, y seguir acompañando a las comunidades con acciones estratégicas.
+
+1.2 Alianzas de la organización
+
+Para el análisis de muestras de humedales, filtros y purificadoras, Ríos Vivos colabora con la Universidad de Guadalajara, a través de tres de sus centros universitarios: el Centro Universitario de la Ciénega (CUCIÉNEGA), el Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI) y el Centro Universitario de Ciencias Biológicas y Agropecuarias (CUCBA).
+
+Otro aliado clave es la organización comunitaria Un Salto de Vida, cuyos miembros han participado activamente en la concepción y el trabajo realizado por Ríos Vivos, incluyendo el llamado "Tour del Horror" (ver Sección 3).
+
+El Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO) colabora con Ríos Vivos mediante el Proyecto de Aplicación Profesional (PAP) "TerritoRios: Saberes por la recuperación ecológica", apoyando específicamente a las comunidades de Juanacatlán, La Cañada, Casa Blanca, Mezcala, Ojo de Agua y Tecualtitán.
+
+En el semestre de otoño de 2024, el PAP TerritoRios acompañó a las comunidades de Juanacatlán, Casa Blanca, Ojo de Agua y La Cañada mediante 5 visitas de campo para el diseño de alternativas socio-tecnológicas. Los entregables identificados junto con las comunidades incluyeron: dos instructivos sobre pruebas microbiológicas y uso de pluma multiparámetro para análisis de calidad de agua, una maqueta demostrativa sobre el funcionamiento de un humedal de tratamiento, el rediseño del "Catálogo de parámetros de calidad de agua" para mayor accesibilidad, y un manual audiovisual sobre cómo obtener la Demanda Bioquímica de Oxígeno (DBO) en laboratorio (Repositorio Institucional ITESO, REI).
+
+1.3 Tipos de proyectos realizados
+
+Entre los proyectos que Ríos Vivos ha desarrollado en las comunidades se incluyen:
+- Humedales artificiales
+- Purificadoras comunitarias
+- Filtros caseros
+- Sesiones informativas y educativas
+- Muestreos y análisis de calidad del agua
+
+===============================
+SECCIÓN 2: COMUNIDADES ATENDIDAS (DATOS DEMOGRÁFICOS, INEGI 2020)
+===============================
+
+Ríos Vivos colabora principalmente con las siguientes comunidades de la cuenca del río Santiago: Juanacatlán, Tecualtitán, Casa Blanca, Mezcala, Ojo de Agua y La Cañada.
+
+2.1 Juanacatlán
+Ubicada en el municipio de Juanacatlán. Población total: 9,626 habitantes (4,835 mujeres, 4,791 hombres). El grupo de edad más numeroso es de 18 a 24 años (1,216 personas). 10 personas de 3 años o más hablan alguna lengua indígena, y 27 residen en hogares censales indígenas. 480 personas presentan alguna discapacidad, y 86 tienen problemas o condiciones mentales.
+
+Servicios básicos: 2,624 viviendas tienen acceso a agua entubada del servicio público (20 viviendas carecen de este servicio). 2,448 viviendas cuentan con tinaco y 2,308 con cisterna o aljibe. 2,668 viviendas tienen taza de baño y solo 3 cuentan con letrina. En cuanto a drenaje, 2,675 viviendas están conectadas a la red pública (10 no tienen drenaje). 2,653 viviendas cuentan simultáneamente con energía eléctrica, agua entubada de red pública y drenaje.
+
+2.2 Tecualtitán
+Ubicada en el municipio de Zapotlán del Rey. Población total: 1,190 habitantes (598 mujeres, 592 hombres). El grupo de edad más numeroso es de 80 a 84 años (211 personas). 104 personas presentan alguna discapacidad y 24 tienen problemas o condiciones mentales.
+
+Servicios básicos: 333 viviendas tienen acceso a agua entubada del servicio público (solo 1 vivienda carece de este servicio). 284 viviendas cuentan con tinaco y 37 con cisterna o aljibe. 333 viviendas tienen taza de baño y 1 cuenta con letrina. Las 334 viviendas están conectadas a la red de drenaje público. 332 viviendas cuentan simultáneamente con energía eléctrica, agua entubada y drenaje.
+
+2.3 La Cañada
+Ubicada en el municipio de Ixtlahuacán de los Membrillos. Población total: 542 habitantes (262 mujeres, 280 hombres). El grupo de edad más numeroso es de 18 a 24 años (66 personas). 4 personas hablan alguna lengua indígena y 4 residen en hogares censales indígenas. 84 personas presentan alguna discapacidad y 23 tienen problemas o condiciones mentales.
+
+Servicios básicos: 140 viviendas tienen acceso a agua entubada del servicio público (139 viviendas carecen de este servicio — proporción notablemente distinta a otras comunidades de la lista). Ninguna vivienda cuenta con tinaco, mientras que 123 tienen cisterna o aljibe. Solo 16 viviendas tienen taza de baño, mientras que 136 cuentan con letrina. Las 136 viviendas con drenaje están conectadas a la red pública, y disponen de fosa o tanque séptico con tubería de desagüe hacia una barranca, grieta, río, lago o mar.
+
+2.4 Casa Blanca
+Ubicada en el municipio de Poncitlán. Población total: 770 habitantes (393 mujeres, 377 hombres). El grupo de edad más numeroso es de 18 a 24 años (95 personas). 41 personas presentan alguna discapacidad y 7 tienen problemas o condiciones mentales.
+
+Servicios básicos: 175 viviendas tienen acceso a agua entubada del servicio público (171 viviendas particulares carecen de este servicio). Ninguna vivienda cuenta con tinaco, mientras que 143 tienen cisterna o aljibe. 64 viviendas tienen taza de baño. 173 viviendas están conectadas a la red de drenaje público y cuentan con energía eléctrica y agua entubada de red pública.
+
+2.5 Ojo de Agua
+Ubicada en el municipio de Poncitlán. Población total: 288 habitantes (138 mujeres, 150 hombres). El grupo de edad más numeroso es de 6 a 11 años (47 personas). 23 personas presentan alguna discapacidad y 7 tienen problemas o condiciones mentales.
+
+Servicios básicos: 56 viviendas tienen acceso a agua entubada del servicio público (solo 1 vivienda carece de este servicio). 38 viviendas cuentan con tinaco y 6 con cisterna o aljibe. 53 viviendas tienen taza de baño y 3 cuentan con letrina. 56 viviendas están conectadas a la red de drenaje público (1 no tiene drenaje).
+
+2.6 Mezcala
+Ubicada en el municipio de Poncitlán. Población total: 6,047 habitantes (3,050 mujeres, 2,997 hombres). El grupo de edad más numeroso es de 18 a 24 años (831 personas). 6 personas hablan alguna lengua indígena y 19 residen en hogares censales indígenas. 245 personas presentan alguna discapacidad y 44 tienen problemas o condiciones mentales.
+
+Servicios básicos: 1,159 viviendas tienen acceso a agua entubada del servicio público (23 viviendas carecen de este servicio). 682 viviendas cuentan con tinaco y 182 con cisterna o aljibe. 1,153 viviendas tienen taza de baño y 12 cuentan con letrina. 2,675 viviendas están conectadas a la red de drenaje público (16 no tienen drenaje). 1,140 viviendas cuentan simultáneamente con energía eléctrica, agua entubada y drenaje.
+
+Localidad adicional, Cuesta de Mezcala (también en el municipio de Poncitlán): población total de 885 habitantes (443 mujeres, 442 hombres). El grupo de edad más numeroso es de 6 a 11 años (153 personas). 19 personas presentan alguna discapacidad y 8 tienen problemas o condiciones mentales. 184 viviendas tienen acceso a agua entubada del servicio público (solo 1 vivienda carece de este servicio). 82 viviendas cuentan con tinaco y 28 con cisterna o aljibe. 179 viviendas tienen taza de baño y 2 cuentan con letrina. 182 viviendas están conectadas a la red de drenaje público (2 no tienen drenaje).
+
+===============================
+SECCIÓN 3: CONTEXTO HIDRO-SOCIAL Y POLÍTICO DEL RÍO SANTIAGO
+===============================
+
+El río Santiago fluye desde la parte noreste del Lago de Chapala, Jalisco, y desemboca en el océano Pacífico cerca de San Blas, Nayarit. Las comunidades ubicadas en los alrededores del río han experimentado impactos negativos en su salud y calidad de vida a causa de la contaminación del agua. El tramo correspondiente a Jalisco recibe múltiples descargas de aguas residuales industriales y municipales sin tratamiento, así como escurrimientos de suelos agrícolas donde se utilizan diversos herbicidas y pesticidas.
+
+3.1 Magnitud de la contaminación
+
+El río Santiago es considerado uno de los cuerpos de agua más contaminados del país. Se han identificado más de 1,000 sustancias contaminantes en sus aguas, incluyendo metales pesados y compuestos sintéticos de alta volatilidad. En la zona operan alrededor de 750 instalaciones industriales, de las cuales al menos 250 descargan directamente sus desechos tóxicos en las aguas del río (Galindo, 2021; Piña, 2023).
+
+En 2020, la Comisión Interamericana de Derechos Humanos (CIDH) emitió un comunicado dirigido al Estado Mexicano solicitando acción conjunta con la población para combatir esta problemática y apoyar a las comunidades afectadas.
+
+Ese mismo año, Patricia Martínez, entonces coordinadora general de Gestión Integral del Territorio, dio a conocer una lista de 29 empresas cuyas descargas contenían contaminantes por encima de los límites normativos. Tras la localización de 500 puntos de descarga y el análisis de muestras de agua de 150 de ellos, se identificó que entre las empresas con mayores niveles de contaminación se encuentran Nestlé, Hershey's, Honda y Urrea Herramientas, entre otras (Reza M., 2020).
+
+3.2 El corredor industrial de El Salto
+
+El municipio de El Salto es actualmente el principal corredor industrial de Jalisco y el segundo a nivel nacional. A lo largo de esta zona se han instalado alrededor de 400 plantas industriales (químicas, textiles, de producción de celulosa, partes automovilísticas, entre otras), cuyas descargas terminan en el río Santiago.
+
+Origen histórico de la industrialización: a principios del siglo XX se instaló la primera industria a orillas del río, la Compañía Industrial Manufacturera S.A. (una textilera impulsada por Porfirio Díaz), que dio origen al primer núcleo urbano de la zona. La región resultaba atractiva para la producción industrial por su baja densidad poblacional y la disponibilidad de agua necesaria para el funcionamiento de maquinaria. En 1893 se construyó ahí la primera hidroeléctrica del país, aprovechando una cascada de aproximadamente veinte metros de altura, para abastecer de energía tanto a la industria como a los núcleos urbanos en crecimiento.
+
+Actualmente, la zona es conocida como "el Valle del Silicio" mexicano, y alberga empresas transnacionales como IBM, Hitachi, Hershey's, Honda, Disney, Urrea y Ericsson, entre otras, dedicadas a la producción de petroquímicos, componentes electrónicos, metales pesados, automóviles, calzado, ropa, agroquímicos, e incluso billetes del Banco de México (Rubio et al., 2021).
+
+3.3 El "Tour del Horror" y los puntos de descarga
+
+La organización Un Salto de Vida realiza recorridos conocidos como el "Tour del Horror" para ilustrar cómo las descargas industriales llegan al río. Un mapa utilizado en estos recorridos muestra, para el caso de El Salto y Juanacatlán, las zonas industriales, los fraccionamientos habitacionales y los cuerpos de agua de la región.
+
+Primer punto: la presa de Las Pintas, originalmente una presa natural que recibía aves migratorias de Estados Unidos y Canadá en épocas de reproducción. Actualmente funciona como vaso regulador de descargas residuales provenientes de la cuenca del Ahogado; su elevación supera a las casas circundantes, por lo que en temporada de lluvias la zona puede inundarse con aguas residuales.
+
+Segundo punto: el arroyo El Ahogado, que nace en la presa de Las Pintas y desemboca en el río Santiago, transportando aguas residuales a través de un canal que pasa detrás del fraccionamiento La Azucena. En esta misma zona se ubica la Presa del Ahogado, donde se ha llevado a cabo un proceso de desecación con el fin de habilitar el terreno para su fraccionamiento, a pesar de que en dicho terreno se han vertido residuos tóxicos durante más de 40 años.
+
+3.4 Impactos documentados en la salud: el caso de Miguel Ángel López Rocha
+
+El 25 de enero de 2008, Miguel Ángel López Rocha, de 8 años, cayó accidentalmente en un charco de agua generado por la corriente del arroyo El Ahogado mientras jugaba con otros niños cerca del canal. Esa noche presentó convulsiones y fue hospitalizado, entrando en coma la madrugada siguiente. Falleció el 13 de febrero, tras más de dos semanas de hospitalización. La causa de muerte fue envenenamiento por arsénico, con una concentración diez veces superior al nivel considerado tolerable (Martín, 2024).
+
+3.5 Estudio de la Dra. Gabriela Domínguez Cortinas (2009)
+
+En 2009, la doctora Gabriela Domínguez Cortinas, de la Universidad Autónoma de San Luis Potosí, realizó un estudio por encargo de la Comisión Estatal del Agua de Jalisco, enfocado en los impactos a la salud causados por la contaminación del río Santiago en las poblaciones de Juanacatlán, El Salto, Tonalá, La Cofradía y Jardines de la Barranca.
+
+Hallazgos principales del estudio (enfocado en la salud infantil):
+- Alteraciones hematológicas: 88.5% en La Cofradía, 79% en El Salto, 64% en Juanacatlán
+- Presencia de plomo en sangre: 93.8% en Juanacatlán, cerca del 50% en El Salto y La Cofradía
+- Presencia de creatinina elevada: 73.7% en Juanacatlán, 59.2% en La Cofradía, 61.9% en El Salto
+- Presencia de benceno (sustancia cancerígena asociada a leucemia)
+- Disminución del tamaño de los glóbulos rojos
+- Más del 40% de los niños de estas comunidades presentaban padecimientos graves
+- Declive notable en capacidades cognitivas y rendimiento académico, atribuido a los efectos neuronales negativos de las toxinas
+
+Las autoridades políticas mantuvieron oculto este estudio durante aproximadamente 10 años antes de darlo a conocer públicamente (Álvarez Mullally, 2020).
+
+3.6 Contexto social y de resistencia comunitaria
+
+Los pobladores relatan que las tierras de la zona fueron adquiridas por empresas a ejidatarios bajo la promesa de progreso, empleo y diversificación de ingresos; sin embargo, las consecuencias negativas percibidas superan a los beneficios obtenidos.
+
+La pérdida de biodiversidad fue uno de los primeros signos identificados: la desaparición progresiva de peces, aves migratorias y árboles frutales precedió al deterioro de la salud humana, con numerosos casos de cáncer, enfermedades renales y problemas pulmonares en El Salto y Juanacatlán.
+
+La unión de comunidades y organizaciones como Un Salto de Vida ha sido clave para exigir mejores condiciones ambientales y frenar la industrialización descontrolada, cuyo crecimiento exponencial se remonta al surgimiento del Tratado de Libre Comercio de América del Norte. Los habitantes de la zona describen esta situación como "un silencioso genocidio". Además de las autoridades gubernamentales, el narcotráfico también ha emitido amenazas contra activistas ambientales de la región (Álvarez Mullally, 2020).
+
+===============================
+SECCIÓN 4: CONTEXTO AMBIENTAL Y REGULATORIO
+===============================
+
+4.1 Vacíos en la normatividad
+
+La normatividad ambiental mexicana contempla la regulación de alrededor de 20 contaminantes, mientras que en las descargas del río Santiago se han detectado más de 1,000 sustancias distintas (Galindo, 2021). Esta brecha implica la presencia de compuestos químicos con efectos adversos potenciales en la salud y el medio ambiente, incluso en concentraciones bajas, sin que exista un marco regulatorio que permita controlar su presencia.
+
+Un ejemplo representativo de este vacío regulatorio son las microcistinas, toxinas producidas por floraciones de cianobacterias (microorganismos fotosintéticos). Las microcistinas se consideran uno de los contaminantes más tóxicos presentes en el agua (Pírez Schirmer, 2019). Su exposición puede causar efectos agudos (ronchas, comezón, malestar) y crónicos (cáncer, daño renal, daño hepático), siendo especialmente tóxicas para la población infantil. Al ser bioacumulables y biomagnificables, también generan efectos crónicos como daño genotóxico, mutagénico y teratogénico (Pérez-Vázquez et al., 2018). La Organización Mundial de la Salud establece un límite máximo provisional de 1 µg/L para agua de consumo humano y de 2 a 4 µg/L para aguas de uso recreativo.
+
+(Nota: para información técnica detallada sobre microcistinas, consultar el documento específico "Contaminación por microcistinas en el agua del lago de Chapala" de esta misma base de conocimiento.)
+
+4.2 Origen de la contaminación de los recursos hídricos
+
+Se identifican tres fuentes principales de contaminación:
+
+Aguas residuales municipales: generadas en viviendas, centros de trabajo y espacios públicos, descargadas a los sistemas de alcantarillado municipal. Sin tratamiento adecuado, pueden contener contaminantes biológicos e infecciosos, así como sustancias tóxicas como solventes (presentes en productos de limpieza) y disruptores hormonales (que alteran las funciones hormonales de los seres vivos, presentes por ejemplo en detergentes para ropa).
+
+Aguas residuales de actividades productivas: principalmente de origen industrial, agrícola y minero (ver contexto histórico de industrialización en la Sección 3.2).
+
+Lixiviados de basureros: líquidos producidos por la descomposición de residuos sólidos que se filtran al subsuelo. Son sustancias anóxicas (con muy poco oxígeno), ricas en ácidos orgánicos, y pueden contener altas concentraciones de metales pesados y otras sustancias tóxicas, como ocurre en el caso del basurero Los Laureles.
+
+===============================
+SECCIÓN 5: NOTA METODOLÓGICA
+===============================
+
+Este documento sintetiza información proporcionada directamente por el usuario (proveniente de material de contextualización del PAP TerritoRios de ITESO) y fue complementado con información verificada mediante búsqueda: el repositorio institucional de ITESO (rei.iteso.mx), que confirma la colaboración entre el PAP TerritoRios y Ríos Vivos durante el semestre de otoño de 2024, incluyendo el rediseño del "Catálogo de parámetros de calidad de agua" como uno de los entregables de esa colaboración (documento que forma parte de esta misma base de conocimiento), y el sitio web oficial de la organización (riosvivos.org).
