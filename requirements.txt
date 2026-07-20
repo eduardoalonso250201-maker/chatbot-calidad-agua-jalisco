@@ -5,4 +5,4 @@ langchain-text-splitters==1.1.2
 langchain-google-genai
 pypdf
 faiss-cpu
-
+pandas
