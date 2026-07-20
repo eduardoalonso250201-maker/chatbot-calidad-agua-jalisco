@@ -50,7 +50,7 @@ NOMBRES_LOCALIDADES = {
 
 #se define la "forma" que debe tener el filtro que regrese la IA
 class FiltroConsulta(BaseModel):
-    parametro: str = Field(default="", description="Nombre EXACTO de la columna de parametro consultado, tomado de esta lista: " + ", ".join(columnas_parametros) + ". Vacio si la pregunta no menciona ningun parametro.")
+    parametro: str = Field(default="", description="Nombre EXACTO de la columna de parametro consultado, tomado de esta lista: " + ", ".join(columnas_parametros) + ". Vacio si la pregunta no menciona ningun parametro. Si la pregunta menciona un parametro que NO esta en esa lista (ejemplo: arsenico, coliformes), escribe exactamente NO_DISPONIBLE.")
     sitios: List[str] = Field(default_factory=list, description=(
         "Lista de codigos EXACTOS de localidad mencionados (puede ser uno, varios o ninguno). "
         "Codigos validos: " + ", ".join(NOMBRES_LOCALIDADES.keys())
@@ -87,7 +87,7 @@ PREGUNTA: {pregunta}
 cadena_filtro = template_filtro | modelo | parser_filtro
 
 #primera prueba con una de tus preguntas de ejemplo
-pregunta_prueba = "listame los resultados mas altos de DQO para juanacatlan, las pintas y el salto"
+pregunta_prueba = "cual fue el nivel de arsenico en JUA"
 
 filtro = cadena_filtro.invoke({"pregunta": pregunta_prueba})
 print(filtro)
@@ -120,7 +120,14 @@ if filtro["fecha_fin"]:
 parametro = filtro["parametro"]
 operacion = filtro["operacion"]
 
-if operacion == "maximo" and parametro:
+if df_filtrado.empty:
+    #no hay ninguna fila que cumpla el filtro de sitio/fecha, cortamos aqui
+    #para no tronar en idxmax/idxmin mas abajo
+    resultado = "No encontre resultados para esa combinacion de sitio y fecha. Intenta con otro sitio o rango de fechas."
+elif parametro and parametro not in df_contaminantes.columns:
+    #el LLM regreso un nombre de columna que no existe en la tabla
+    resultado = f"El parametro '{parametro}' no esta en la tabla. Los parametros disponibles son: {', '.join(columnas_parametros)}"
+elif operacion == "maximo" and parametro:
     if filtro["sitios"]:
         #con varios sitios, se saca el maximo por cada uno por separado
         indices_max = df_filtrado.groupby("Códigos de Localidad")[parametro].idxmax()
