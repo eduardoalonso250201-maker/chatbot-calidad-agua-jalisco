@@ -6,3 +6,4 @@ langchain-google-genai
 pypdf
 faiss-cpu
 pandas
+langchain
