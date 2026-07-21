@@ -1,3 +1,4 @@
+import os
 import gradio as gr
 from langchain_classic.agents import AgentExecutor
 from orquestador import AgenteOrquestador
@@ -24,4 +25,4 @@ iface = gr.Interface(
     description="Pregunta sobre conceptos de calidad del agua en Chapala y cuerpos de agua cercanos, consulta datos medidos, definiciones e informacion de contaminantes, sistemas de tratamiento y màs."
 )
 
-iface.launch()
+iface.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
