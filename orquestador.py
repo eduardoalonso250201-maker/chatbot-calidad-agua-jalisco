@@ -1,5 +1,5 @@
-from RAG import HerramientaRAG
+from parametros_calidad import HerramientaParametrosCalidad
 
-tool = HerramientaRAG()
-respuesta = tool.run('{"pregunta": "Dime la definicion de Cadmio, sus fuentes de contmainacion principales, efectos para la salud y limites maximos permisibles de concentracion"}')
+tool = HerramientaParametrosCalidad()
+respuesta = tool.run('{"pregunta": "listame los resultados mas altos de DQO para juanacatlan, las pintas y el salto"}')
 print(respuesta)
