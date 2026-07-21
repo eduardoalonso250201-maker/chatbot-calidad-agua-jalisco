@@ -10,10 +10,11 @@ def main():
         handle_parsing_errors=True
     )
 
-    pregunta = "¿Dame los resultados de todos los parametros del dia 29 de marzo del 2025 en JUA?"
-
-    respuesta = ejecutor.invoke({"input": pregunta})
-    print(respuesta["output"])
+    pregunta = input("Ingresa tu pregunta (escribe 'fin' para terminar): ")
+    while pregunta.strip().lower() != "fin":
+        respuesta = ejecutor.invoke({"input": pregunta})
+        print(respuesta["output"])
+        pregunta = input("Ingresa tu pregunta (escribe 'fin' para terminar): ")
 
 if __name__=="__main__":
     main()
