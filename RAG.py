@@ -63,13 +63,15 @@ class HerramientaRAG(BaseTool):
  
         # prompt anti-alucinacion: solo responde con lo que venga en {contexto}
         prompt = ChatPromptTemplate(
-            [("system", """Si la respuesta no esta en el contenido, indica que no tienes esa informacion.
-Redacta la respuesta en prosa natural, sin repetir encabezados de seccion, separadores
-ni el formato original del documento fuente.
- 
-#CONTENIDO
-{contexto}"""),
-             ("human", "{query}")]
+            [("system", """Responde usando exclusivamente el contenido que se incluye a continuacion.
+        Si la respuesta no esta en el contenido, indica que no tienes esa informacion.
+        Redacta la respuesta en prosa natural, sin repetir encabezados de seccion, separadores
+        ni el formato original del documento fuente. Se lo mas detallado y completo posible,
+        usando toda la informacion relevante del contenido proporcionado; evita resumir en exceso.
+
+        #CONTENIDO
+        {contexto}"""),
+            ("human", "{query}")]
         )
  
         # ---------------------------------------------------------------
@@ -83,7 +85,7 @@ ni el formato original del documento fuente.
         # ---------------------------------------------------------------
         def buscar_fragmentos(texto_pregunta):
             vector_pregunta = embeddings.embed_documents([texto_pregunta])[0]
-            fragmentos_encontrados = vector_store.similarity_search_by_vector(vector_pregunta, k=5)
+            fragmentos_encontrados = vector_store.similarity_search_by_vector(vector_pregunta, k=7)
             return "\n\n".join(fragmento.page_content for fragmento in fragmentos_encontrados)
  
         retriever = RunnableLambda(buscar_fragmentos)
