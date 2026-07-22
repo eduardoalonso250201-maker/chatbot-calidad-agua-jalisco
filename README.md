@@ -24,8 +24,8 @@ el servicio despierta — no es un error, solo hay que esperar).*
 
 ![Listado de resultados](pruebas_deploy/resultados_varios.png)
 
-*(Video de demostración: agrega aquí el link una vez que lo subas a GitHub o a donde prefieras
-alojarlo.)*
+
+
 
 ---
 
