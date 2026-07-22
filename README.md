@@ -22,10 +22,7 @@ el servicio despierta — no es un error, solo hay que esperar).*
 
 ![Nivel de nitrato más alto](pruebas_deploy/nitrat_alto.png)
 
-![Listado de resultados](pruebas_deploy/resultados_varios.png)
-
-
-
+![Valor más alto de DQO en tres localidades](pruebas_deploy/DQO_alto_localidades.png)
 
 ---
 
