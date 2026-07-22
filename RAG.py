@@ -16,13 +16,15 @@ class HerramientaRAG(BaseTool):
     # mismo patron de nombre/description/return_direct que HerramientaAnalisisImagen y HerramientaExplicar
     name: str = "HerramientaRAG"
     description: str = """
-                      Utiliza esta herramienta siempre que se pida una explicacion de un concepto,
-                      no un dato medido de una base de datos. Por ejemplo: preguntas sobre rios vivos,
-                      humedales construidos, la problematica del agua en Jalisco (Lago de Chapala,
-                      Rio Santiago), o definiciones de los parametros de analisis de calidad del agua.
- 
-                      # ENTRADA REQUERIDA
-                      - "pregunta" (str): la pregunta del usuario, tal cual, en lenguaje natural.
+                   Utiliza esta herramienta siempre que se pida informacion o explicacion de un
+                  concepto, no un dato medido de una base de datos. Por ejemplo: preguntas sobre
+                  rios vivos, humedales construidos, la problematica del agua en Jalisco (Lago de
+                  Chapala, Rio Santiago), definiciones de los parametros de analisis de calidad del
+                  agua, o informacion general sobre las comunidades involucradas (nombres,
+                  poblacion, ubicacion, etc.).
+
+                  # ENTRADA REQUERIDA
+                  - "pregunta" (str): la pregunta del usuario, tal cual, en lenguaje natural.
                       """
     # se regresa la respuesta directo al usuario, sin que el agente la reprocese
     # (la cadena de abajo ya redacta la respuesta final por su cuenta)
@@ -81,7 +83,7 @@ ni el formato original del documento fuente.
         # ---------------------------------------------------------------
         def buscar_fragmentos(texto_pregunta):
             vector_pregunta = embeddings.embed_documents([texto_pregunta])[0]
-            fragmentos_encontrados = vector_store.similarity_search_by_vector(vector_pregunta, k=4)
+            fragmentos_encontrados = vector_store.similarity_search_by_vector(vector_pregunta, k=5)
             return "\n\n".join(fragmento.page_content for fragmento in fragmentos_encontrados)
  
         retriever = RunnableLambda(buscar_fragmentos)
