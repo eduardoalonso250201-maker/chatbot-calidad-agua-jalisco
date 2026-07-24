@@ -14,7 +14,7 @@ set_debug(False)
 
 class AgenteOrquestador:
     def __init__(self):
-        # first element of the class, Initialize the Google Generative AI model with the API key and model name
+        #Primer elemento de la clase, inicializa con Google Generative AI model con su API key y el nombre del modelo 
         self.llm = ChatGoogleGenerativeAI(
             api_key=GEMINI_API_KEY,
             model=GEMINI_FLASH
@@ -24,7 +24,7 @@ class AgenteOrquestador:
         herramienta_rag = HerramientaRAG()
         herramienta_parametros_calidad = HerramientaParametrosCalidad()
 
-        # second element of the class, a list with the tools that the agent can use, and its functions
+        #Segundo elemento de clase, Lista de herramientas que el agente puede usar, con etiquetas y funciones definidas
         self.tools = [
             Tool(
                 name=herramienta_rag.name,
@@ -40,7 +40,9 @@ class AgenteOrquestador:
             )
         ]
 
-        # third element of the class, the prompt
+        # Tercer elemento de la calse, el promt. se le dice que herramientas tiene disponibles
+        #que pasos seguir, cuanto tomar la decision de que herramienta usar
+        #y se anade la parte del historial que se define en main
         prompt = PromptTemplate.from_template(
             """Answer the following questions as best you can. You have access to the following tools:
             {tools}
@@ -58,9 +60,12 @@ class AgenteOrquestador:
 
             Begin!
 
+            Historial de la conversacion hasta ahora:
+            {chat_history}
+
             Question: {input}
             Thought:{agent_scratchpad}"""
         )
 
-        # Create the agent with the LLM, tools and prompt
+        # Se crea el agente ReAct con sus argmuentos de llm, herramientas y prompt
         self.agente = create_react_agent(self.llm, self.tools, prompt)
